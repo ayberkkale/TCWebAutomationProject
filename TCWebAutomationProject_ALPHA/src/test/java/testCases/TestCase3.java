@@ -11,11 +11,13 @@ import pages.TCsearchResultPage;
 import pages.ProductDetailPage;
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
+import org.testng.annotations.Test;
 
 
 public class TestCase3 {
     private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
-
+	
+	@Test
     public static void main(String[] args) throws InterruptedException, IOException, SAXException, ParserConfigurationException {
 
         String driverExecutablePath = "src\\driver\\chromedriver.exe";

@@ -7,10 +7,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import pages.TCmainPage;
 import pages.PasajHomePage;
 import pages.PasajSepetPage;
+import org.testng.annotations.Test;
 
 public class TestCase2 {
     private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
-
+	
+	@Test
     public static void main(String[] args) throws InterruptedException {
 
         String driverExecutablePath = "src\\driver\\chromedriver.exe";

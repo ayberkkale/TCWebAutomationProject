@@ -6,11 +6,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pages.TCmainPage;
 import pages.TCsearchResultPage;
+import org.testng.annotations.Test;
 
 public class TestCase1 {
 
     private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
-
+	@Test
     public static void main(String[] args) throws InterruptedException {
 
         String driverExecutablePath = "src\\driver\\chromedriver.exe";
