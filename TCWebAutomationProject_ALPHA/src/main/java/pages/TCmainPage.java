@@ -23,7 +23,7 @@ public class TCmainPage {
     }
 
 
-    @BeforeTest
+
        public void searchItembyText(String searchText1)  {
 
         try{
@@ -50,7 +50,7 @@ public class TCmainPage {
 
     }
 
-    @BeforeTest
+
     public void navigatePasaj() {
 
         try{
@@ -67,7 +67,7 @@ public class TCmainPage {
 
     }
 
-    @AfterTest
+
     public void tearDown()  {
 
         try{

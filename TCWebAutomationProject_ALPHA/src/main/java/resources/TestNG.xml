@@ -1,0 +1,15 @@
+
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG1"  >
+    <test name="Demo TestNG"   >
+        <classes>
+            <class name="testCases.TestCase1" />
+
+            <class name="testCases.TestCase2" />
+
+            <class name="testCases.TestCase3" />
+        </classes>
+    </test>
+</suite>

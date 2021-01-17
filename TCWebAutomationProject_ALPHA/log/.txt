@@ -1,16 +1,128 @@
-2021-01-08 00:57:10 INFO  TCmainPage:20 - Test Case 1 
-2021-01-08 00:57:27 INFO  TCmainPage:43 - Search Text Submitted
-2021-01-08 00:57:34 INFO  TCmainPage:38 - Search Item iPhone 12 64 GB Is Found
-2021-01-08 00:57:34 INFO  TCmainPage:39 - Test 1 is passed
-2021-01-08 00:57:40 INFO  TCmainPage:20 - Test Case 2
-2021-01-08 00:57:50 INFO  TCmainPage:60 - Clicked pasaj button
-2021-01-08 00:58:01 INFO  TCmainPage:31 - Basket clicked
-2021-01-08 00:58:01 INFO  TCmainPage:33 - Sepette urun yok
-2021-01-08 00:58:01 INFO  TCmainPage:34 - Test 2 is passed
-2021-01-08 00:58:14 INFO  TCmainPage:25 - Test Case 3
-2021-01-08 00:58:24 INFO  TCmainPage:60 - Clicked pasaj button
-2021-01-08 00:58:27 INFO  TCmainPage:52 - Scrolled end of page
-2021-01-08 00:58:40 INFO  TCmainPage:52 - Higher
-2021-01-08 00:58:40 INFO  TCmainPage:53 - Test 3 is passed_1
-2021-01-08 00:58:52 INFO  TCmainPage:62 - 6m Higher
-2021-01-08 00:58:52 INFO  TCmainPage:63 - Test 3 is passed_2
+2021-01-17 22:42:23 INFO  TCmainPage:24 - BeforeSuite
+2021-01-17 22:42:23 INFO  TCmainPage:31 - BeforeTest
+2021-01-17 22:42:23 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:42:23 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:42:28 INFO  TCmainPage:20 - Test Case 1 
+2021-01-17 22:42:32 INFO  TCmainPage:43 - Search Text Submitted
+2021-01-17 22:42:40 INFO  TCmainPage:38 - Search Item iPhone 12 64 GB Is Found
+2021-01-17 22:42:40 INFO  TCmainPage:39 - Test 1 is passed
+2021-01-17 22:42:40 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:42:40 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:42:41 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:42:41 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:42:44 INFO  TCmainPage:20 - Test Case 2
+2021-01-17 22:42:50 INFO  TCmainPage:60 - Clicked pasaj button
+2021-01-17 22:42:51 INFO  TCmainPage:31 - Basket clicked
+2021-01-17 22:42:52 INFO  TCmainPage:32 - Sepette urun yok
+2021-01-17 22:42:52 INFO  TCmainPage:33 - Test 2 is passed
+2021-01-17 22:42:52 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:42:52 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:42:53 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:42:53 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:42:57 INFO  TCmainPage:25 - Test Case 3
+2021-01-17 22:43:00 INFO  TCmainPage:60 - Clicked pasaj button
+2021-01-17 22:43:04 INFO  TCmainPage:52 - Scrolled end of page
+2021-01-17 22:43:18 INFO  TCmainPage:51 - founddefaultMonthlyInstallment 98.0
+2021-01-17 22:43:18 WARN  TCmainPage:58 - Less
+2021-01-17 22:43:18 ERROR TCmainPage:59 - Test 3 is condition2-less
+2021-01-17 22:43:27 INFO  TCmainPage:72 - Month: 6, Installment: 1795.0
+2021-01-17 22:43:30 INFO  TCmainPage:72 - Month: 9, Installment: 1236.0
+2021-01-17 22:43:30 INFO  TCmainPage:89 - 6m vs 9m true
+2021-01-17 22:43:30 INFO  TCmainPage:65 - 6m Higher
+2021-01-17 22:43:30 INFO  TCmainPage:66 - Test 3 is passed_2
+2021-01-17 22:43:30 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:43:30 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:43:32 INFO  TCmainPage:64 - AfterTest
+2021-01-17 22:43:32 INFO  TCmainPage:71 - AfterSuite
+2021-01-17 22:45:11 INFO  TCmainPage:24 - BeforeSuite
+2021-01-17 22:45:11 INFO  TCmainPage:31 - BeforeTest
+2021-01-17 22:45:11 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:45:11 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:45:15 INFO  TCmainPage:20 - Test Case 1 
+2021-01-17 22:45:19 INFO  TCmainPage:43 - Search Text Submitted
+2021-01-17 22:45:27 INFO  TCmainPage:38 - Search Item iPhone 12 64 GB Is Found
+2021-01-17 22:45:27 INFO  TCmainPage:39 - Test 1 is passed
+2021-01-17 22:45:27 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:45:27 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:45:28 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:45:28 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:45:31 INFO  TCmainPage:20 - Test Case 2
+2021-01-17 22:45:36 INFO  TCmainPage:60 - Clicked pasaj button
+2021-01-17 22:45:38 INFO  TCmainPage:31 - Basket clicked
+2021-01-17 22:45:41 INFO  TCmainPage:32 - Sepette urun yok
+2021-01-17 22:45:41 INFO  TCmainPage:33 - Test 2 is passed
+2021-01-17 22:45:41 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:45:41 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:45:42 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:45:42 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:45:45 INFO  TCmainPage:25 - Test Case 3
+2021-01-17 22:45:49 INFO  TCmainPage:60 - Clicked pasaj button
+2021-01-17 22:45:52 INFO  TCmainPage:52 - Scrolled end of page
+2021-01-17 22:46:06 INFO  TCmainPage:53 - founddefaultMonthlyInstallment 958.0
+2021-01-17 22:46:06 WARN  TCmainPage:58 - Less
+2021-01-17 22:46:06 ERROR TCmainPage:59 - Test 3 is condition2-less
+2021-01-17 22:46:15 INFO  TCmainPage:74 - Month: 6, Installment: 1795.0
+2021-01-17 22:46:18 INFO  TCmainPage:74 - Month: 9, Installment: 1236.0
+2021-01-17 22:46:18 INFO  TCmainPage:91 - 6m vs 9m true
+2021-01-17 22:46:18 INFO  TCmainPage:65 - 6m Higher
+2021-01-17 22:46:18 INFO  TCmainPage:66 - Test 3 is passed_2
+2021-01-17 22:46:18 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:46:18 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:46:20 INFO  TCmainPage:64 - AfterTest
+2021-01-17 22:46:20 INFO  TCmainPage:71 - AfterSuite
+2021-01-17 22:46:53 INFO  TCmainPage:24 - BeforeSuite
+2021-01-17 22:46:53 INFO  TCmainPage:31 - BeforeTest
+2021-01-17 22:46:53 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:46:53 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:46:57 INFO  TCmainPage:20 - Test Case 1 
+2021-01-17 22:47:01 INFO  TCmainPage:43 - Search Text Submitted
+2021-01-17 22:47:09 INFO  TCmainPage:38 - Search Item iPhone 12 64 GB Is Found
+2021-01-17 22:47:09 INFO  TCmainPage:39 - Test 1 is passed
+2021-01-17 22:47:09 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:47:09 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:47:10 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:47:10 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:47:14 INFO  TCmainPage:20 - Test Case 2
+2021-01-17 22:47:17 INFO  TCmainPage:60 - Clicked pasaj button
+2021-01-17 22:47:20 INFO  TCmainPage:31 - Basket clicked
+2021-01-17 22:47:21 INFO  TCmainPage:32 - Sepette urun yok
+2021-01-17 22:47:21 INFO  TCmainPage:33 - Test 2 is passed
+2021-01-17 22:47:21 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:47:21 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:47:23 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:47:23 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:47:26 INFO  TCmainPage:25 - Test Case 3
+2021-01-17 22:47:32 INFO  TCmainPage:60 - Clicked pasaj button
+2021-01-17 22:47:34 INFO  TCmainPage:52 - Scrolled end of page
+2021-01-17 22:48:47 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:48:47 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:48:49 INFO  TCmainPage:64 - AfterTest
+2021-01-17 22:48:49 INFO  TCmainPage:71 - AfterSuite
+2021-01-17 22:50:09 INFO  TCmainPage:24 - BeforeSuite
+2021-01-17 22:50:09 INFO  TCmainPage:31 - BeforeTest
+2021-01-17 22:50:09 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:50:09 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:50:13 INFO  TCmainPage:20 - Test Case 1 
+2021-01-17 22:50:20 INFO  TCmainPage:43 - Search Text Submitted
+2021-01-17 22:50:27 INFO  TCmainPage:38 - Search Item iPhone 12 64 GB Is Found
+2021-01-17 22:50:27 INFO  TCmainPage:39 - Test 1 is passed
+2021-01-17 22:50:27 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:50:27 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:50:29 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:50:29 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:50:32 INFO  TCmainPage:20 - Test Case 2
+2021-01-17 22:50:40 INFO  TCmainPage:60 - Clicked pasaj button
+2021-01-17 22:50:41 INFO  TCmainPage:31 - Basket clicked
+2021-01-17 22:50:42 INFO  TCmainPage:32 - Sepette urun yok
+2021-01-17 22:50:42 INFO  TCmainPage:33 - Test 2 is passed
+2021-01-17 22:50:42 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:50:42 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:50:43 INFO  TCmainPage:37 - BeforeClass
+2021-01-17 22:50:43 INFO  TCmainPage:42 - BeforeMethod
+2021-01-17 22:50:46 INFO  TCmainPage:25 - Test Case 3
+2021-01-17 22:50:53 INFO  TCmainPage:60 - Clicked pasaj button
+2021-01-17 22:50:56 INFO  TCmainPage:52 - Scrolled end of page
+2021-01-17 22:52:09 INFO  TCmainPage:50 - AfterMethod
+2021-01-17 22:52:09 INFO  TCmainPage:57 - AfterClass
+2021-01-17 22:52:10 INFO  TCmainPage:64 - AfterTest
+2021-01-17 22:52:10 INFO  TCmainPage:71 - AfterSuite

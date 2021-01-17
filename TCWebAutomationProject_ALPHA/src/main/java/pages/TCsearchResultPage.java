@@ -21,7 +21,7 @@ public class TCsearchResultPage {
         this.driver = driver;
     }
 
-    @BeforeTest
+
     public void goDevicesTab(){
         try{
 
@@ -37,13 +37,13 @@ public class TCsearchResultPage {
 
 
     }
-    @Test
-    public boolean issSearchItemListed(String searchText){
+
+    public boolean issSearchItemListed(String searchText) throws InterruptedException {
 
 
 
         boolean boolTemp=false;
-        try{
+
             Thread.sleep(6000);
 
 
@@ -73,15 +73,11 @@ public class TCsearchResultPage {
 
             return boolTemp;
 
-        }catch (Exception e){
-            log.error(e);
-            return false;
-        }
 
 
 
     }
-    @BeforeTest
+
     public void navigateSearchItem(String searchText)throws InterruptedException{
 
         try{
@@ -135,7 +131,7 @@ public class TCsearchResultPage {
 
     }
 
-    @AfterTest
+
     public void tearDown()  {
 
         try{

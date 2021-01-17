@@ -9,19 +9,16 @@ import pages.PasajHomePage;
 import pages.PasajSepetPage;
 import org.testng.annotations.Test;
 
-public class TestCase2 {
-    private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
-	
-	@Test
-    public static void main(String[] args) throws InterruptedException {
+public class TestCase2 extends TestBase {
 
-        String driverExecutablePath = "src\\driver\\chromedriver.exe";
-        System.setProperty("webdriver.chrome.driver", driverExecutablePath);
-        PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
+
+    @Test
+    public void test2()  throws InterruptedException {
+
+
 
         log.info( "Test Case 2" );
 
-        WebDriver driver=new ChromeDriver();
 
         TCmainPage TurkcellMainpage = new TCmainPage(driver);
         PasajHomePage TCPasajHomePage = new PasajHomePage(driver);
@@ -43,8 +40,6 @@ public class TestCase2 {
 
 
 
-        //Close browser instance
-        PasajSepet.tearDown();
 
     }
 }

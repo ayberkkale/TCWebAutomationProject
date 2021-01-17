@@ -21,10 +21,10 @@ public class PasajSepetPage {
         this.driverPaSePa = driver;
     }
 
-    @Test
+
     public boolean checkNoItemInBasket(){
         boolean tempNoItem=false;
-        try{
+
             String searchText="Sepetinizde ürün bulunmamaktadır.";
 
             List<WebElement> allInputElements = new WebDriverWait(driverPaSePa, defaultWait).until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.tagName("h3")));
@@ -48,18 +48,14 @@ public class PasajSepetPage {
 
 
             return tempNoItem;
-        }catch (Exception e){
 
-            log.error(e);
-            return false;
-        }
 
 
 
 
     }
 
-    @AfterTest
+
     public void tearDown()  {
 
         try{

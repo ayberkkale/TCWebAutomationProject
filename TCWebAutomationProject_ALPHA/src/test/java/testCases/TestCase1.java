@@ -4,23 +4,22 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.*;
 import pages.TCmainPage;
 import pages.TCsearchResultPage;
-import org.testng.annotations.Test;
 
-public class TestCase1 {
 
-    private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
-	@Test
-    public static void main(String[] args) throws InterruptedException {
+public class TestCase1 extends TestBase{
 
-        String driverExecutablePath = "src\\driver\\chromedriver.exe";
-        System.setProperty("webdriver.chrome.driver", driverExecutablePath);
 
-        PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
+
+
+    @Test
+    public void test1() throws InterruptedException {
+
         log.info( "Test Case 1 ");
 
-        WebDriver driver=new ChromeDriver();
+
 
         TCmainPage TurkcellMainpage = new TCmainPage(driver);
         TCsearchResultPage TurkcellSearchResultPage = new TCsearchResultPage(driver);
@@ -45,8 +44,6 @@ public class TestCase1 {
 
 
 
-        //Close browser instance
-        TurkcellSearchResultPage.tearDown();
 
     }
 

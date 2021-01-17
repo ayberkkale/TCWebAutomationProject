@@ -21,7 +21,7 @@ public class PasajHomePage {
         this.driverPaHoPa = driver;
     }
 
-    @BeforeTest
+
     public void navigateSepet() {
 
 
@@ -37,7 +37,7 @@ public class PasajHomePage {
 
     }
 
-    @BeforeTest
+
     public void scrollEndofPage() {
         try{
 
@@ -57,7 +57,7 @@ public class PasajHomePage {
 
 
     }
-    @BeforeTest
+
     public void navigatefooterlink(String BrandName){
         try{
             String tempXpath= "(//a[contains(@title,'"+BrandName+"')])[1]";
@@ -74,7 +74,7 @@ public class PasajHomePage {
 
     }
 
-    @AfterTest
+
     public void tearDown()  {
 
         try{

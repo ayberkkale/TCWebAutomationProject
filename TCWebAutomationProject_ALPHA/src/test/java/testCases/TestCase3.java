@@ -14,19 +14,17 @@ import java.io.IOException;
 import org.testng.annotations.Test;
 
 
-public class TestCase3 {
-    private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
-	
-	@Test
-    public static void main(String[] args) throws InterruptedException, IOException, SAXException, ParserConfigurationException {
+public class TestCase3 extends TestBase{
 
-        String driverExecutablePath = "src\\driver\\chromedriver.exe";
-        System.setProperty("webdriver.chrome.driver", driverExecutablePath);
-        PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
+
+    @Test
+    public void test3() throws InterruptedException, IOException, SAXException, ParserConfigurationException {
+
+
 
         log.info( "Test Case 3" );
 
-        WebDriver driver=new ChromeDriver();
+
 
         TCmainPage TurkcellMainpage = new TCmainPage(driver);
         PasajHomePage TCPasajHomePage = new PasajHomePage(driver);
@@ -39,11 +37,14 @@ public class TestCase3 {
         TCPasajHomePage.scrollEndofPage();
 
         String BrandName="Macbook";
+        String BrandName2="HP Bilgisayarlar";
 
         TCPasajHomePage.navigatefooterlink(BrandName);
 
 
         String SearchItem="Apple MacBook Pro Touch Bar 13 inç";
+        String SearchItem2="HP Pavilion Gaming 15-dk0005nt";
+
 
         TurkcellSearchResultPage.navigateSearchItem(SearchItem);
 
@@ -55,7 +56,7 @@ public class TestCase3 {
             log.info( "Test 3 is passed_1" );
         }else{
             log.warn( "Less" );
-            log.error("Test 3 is failed_1");
+            log.error("Test 3 is condition2-less");
         }
 
 
@@ -66,14 +67,12 @@ public class TestCase3 {
         }else{
             log.error( "Error 6m vs 9m comparison" );
             log.error("Test 3 is failed_2");
+
+
         }
 
 
 
-
-
-        //Close browser instance
-        ProductDetail.tearDown();
 
     }
 }
