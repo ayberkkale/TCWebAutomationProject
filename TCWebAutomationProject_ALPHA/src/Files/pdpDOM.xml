@@ -1,4 +1,4 @@
-<html lang="tr" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
+<html lang="tr"><head>
 	<!-- definitions.common.web.head.start -->
 	<link rel="dns-prefetch" href="//s.turkcell.com.tr">
 <link rel="dns-prefetch" href="//in.hotjar.com">
@@ -147,7 +147,7 @@
 	<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.turkcell.com.tr/pasaj/bilgisayar-tablet/bilgisayarlar/oyun-bilgisayari/hp-pavilion-gaming-15-dk0005nt-6zl09ea">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <script async="true" type="text/javascript" src="https://sslwidget.criteo.com/event?a=30268&amp;v=5.6.2&amp;p0=e%3Dce%26m%3D%255B%255D&amp;p1=e%3Dexd%26site_type%3Dd&amp;p2=e%3Dvp%26tms%3Dgtm-criteo-2.0.0%26p%3D%255B1030441%255D&amp;p3=e%3Ddis&amp;adce=1&amp;tld=turkcell.com.tr&amp;dtycbr=58262" data-owner="criteo-tag"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-N8MTN2Q&amp;t=gtm2&amp;cid=1642835944.1611515999&amp;gac=_gaexp%3DGAX1.3.a1asFvRYStGPbWYGZ1EyqA.18743.1"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script src="https://connect.facebook.net/signals/config/470016443928963?v=2.9.33&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-585815.js?sv=7"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-L88W27BK3S&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-H46RSLWX4K&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-SVLC"></script><script type="text/javascript" src="/ruxitagentjs_ICA2SVfhqru_10205201218101503.js" data-dtconfig="app=685a57750cce76dd|featureHash=ICA2SVfhqru|rdnt=1|uxrgce=1|bp=2|cuc=0opryidt|dpvc=1|md=mdcc1=a#header-profile ^rb div ^rb div.m-grid-col-6 ^rb div.m-dashboard ^rb div.m-dashboard__phone|lastModification=1611232732499|dtVersion=10205201218101503|tp=500,50,0,1|uxdcw=1500|vs=2|agentUri=/ruxitagentjs_ICA2SVfhqru_10205201218101503.js|reportUrl=/rb_3f2c3bac-8f12-4c72-8ade-c9ccfa775b54|rid=RID_318820386|rpid=1294521015|domain=turkcell.com.tr"></script><link rel="stylesheet" type="text/css" media="all" href="https://img-turkcellweb.mncdn.com/static_lib/passage-assets/common/styles/vendors.css?111121191111896">
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-SVLC"></script><script type="text/javascript" src="/ruxitagentjs_ICA2SVfhqru_10205201218101503.js" data-dtconfig="app=685a57750cce76dd|featureHash=ICA2SVfhqru|rdnt=1|uxrgce=1|bp=2|cuc=0opryidt|dpvc=1|md=mdcc1=a#header-profile ^rb div ^rb div.m-grid-col-6 ^rb div.m-dashboard ^rb div.m-dashboard__phone|lastModification=1611232732499|dtVersion=10205201218101503|tp=500,50,0,1|uxdcw=1500|vs=2|agentUri=/ruxitagentjs_ICA2SVfhqru_10205201218101503.js|reportUrl=/rb_3f2c3bac-8f12-4c72-8ade-c9ccfa775b54|rid=RID_-476862905|rpid=-198577483|domain=turkcell.com.tr"></script><link rel="stylesheet" type="text/css" media="all" href="https://img-turkcellweb.mncdn.com/static_lib/passage-assets/common/styles/vendors.css?111121191111896">
 	<link rel="stylesheet" type="text/css" media="all" href="https://img-turkcellweb.mncdn.com/static_lib/passage-assets/desktop/styles/app.desktop.min.css?111121191111896">
     <link rel="shortcut icon" href="https://img-turkcellweb.mncdn.com/static_lib/passage-assets/common/images/favicon.ico" type="image/vnd.microsoft.icon">
 	<link rel="stylesheet" href="https://img-turkcellweb.mncdn.com/static_lib/assetsv2/common/styles/vendors.css?111121191111896">
@@ -167,16 +167,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <link rel="manifest" href="/insider/manifest.json"> 
 	<!-- End definitions.common.web.head.end -->
-<script type="application/javascript" async="" src="//cdn.mookie1.com/containr.js"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/955169721/?random=1611516015658&amp;cv=9&amp;fst=1611516015658&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=6&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg1d0&amp;sendb=1&amp;ig=1&amp;data=dynx_pagetype%3Dofferdetail%3Bdynx_itemid%3D1030441%3Bdynx_itemid2%3DHP%20Pavilion%20Gaming%2015-dk0005nt%20(6ZL09EA)%20%2F%20Intel%20Core%20i5-9300H%20%2F%208GB%20Ram%20%2F%201TB%20%2B%20128GB%20SSD%20%2F%20W10%20%2F%2015.6%20in%C3%A7%20FHD%20%2F%20GeForce%20GTX%201650%204GB%3Bdynx_totalvalue%3D9499.0&amp;frm=0&amp;url=https%3A%2F%2Fwww.turkcell.com.tr%2Fpasaj%2Fbilgisayar-tablet%2Fbilgisayarlar%2Foyun-bilgisayari%2Fhp-pavilion-gaming-15-dk0005nt-6zl09ea&amp;ref=https%3A%2F%2Fwww.turkcell.com.tr%2Fpasaj%2Fbilgisayar-tablet%2Fbilgisayarlar-hp&amp;tiba=HP%20Pavilion%20Gaming%2015-dk0005nt%20(6ZL09EA)%20%2F%20Intel%20Core%20i5-9300H%20%2F%208GB%20Ram%20%2F%201TB%20%2B%20128GB%20SSD%20%2F%20W10%20%2F%2015.6%20in%C3%A7%20FHD%20%2F%20GeForce%20GTX%201650%204GB%20-%20TURKCELL&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/955169721/?random=1611516015659&amp;cv=9&amp;fst=1611516015659&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=6&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg1d0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.turkcell.com.tr%2Fpasaj%2Fbilgisayar-tablet%2Fbilgisayarlar%2Foyun-bilgisayari%2Fhp-pavilion-gaming-15-dk0005nt-6zl09ea&amp;ref=https%3A%2F%2Fwww.turkcell.com.tr%2Fpasaj%2Fbilgisayar-tablet%2Fbilgisayarlar-hp&amp;tiba=HP%20Pavilion%20Gaming%2015-dk0005nt%20(6ZL09EA)%20%2F%20Intel%20Core%20i5-9300H%20%2F%208GB%20Ram%20%2F%201TB%20%2B%20128GB%20SSD%20%2F%20W10%20%2F%2015.6%20in%C3%A7%20FHD%20%2F%20GeForce%20GTX%201650%204GB%20-%20TURKCELL&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script async="" src="https://script.hotjar.com/modules.59fae23e8e8310b9fca6.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><link type="text/css" rel="stylesheet" media="screen" href="//cdn.segmentify.com/089e370c-ecd9-4631-bee1-3fadb4ae3b34/segmentify.css">
-          <style id="hype-hello-bar-style">
-              .hype_image-bar {
-                  width: 100%;
-                  display: block;
-                  background: #ebeef3;
-                  text-align: center;
-              }
-          </style>
-        </head>
+</head>
 
 <body>
 	<script src="https://img-turkcellweb.mncdn.com/static_lib/assetsv2/common/scripts/vendors/jquery.min.js?111121191111896"></script>
@@ -300,7 +291,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-	<header class="o-p-header">
+	<header class="o-p-header" data-component="PasajHeader">
         <div class="container-p">
             <div class="o-p-header__top">
             	
@@ -325,7 +316,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                		</div>
                	
-	<div class="m-p-search-area" data-autocomplete-url="/arama/pasaj/autocomplete.json" data-autocomplete-recommended-text="Önerilen Sonuç" data-autocomplete-start-length="3">
+	<div class="m-p-search-area" data-component="PasajSearchArea" data-autocomplete-url="/arama/pasaj/autocomplete.json" data-autocomplete-recommended-text="Önerilen Sonuç" data-autocomplete-start-length="3">
 		<form class="m-p-search-area__form" action="/pasaj/arama">
 			<button class="m-p-search-area__button"><i class="icon icon-p-search"></i></button>
 			<input type="text" class="m-p-search-area__input js-autocomplete-input" placeholder="Ürün, marka veya kategori ara" name="qx">
@@ -437,7 +428,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					                        <div data-analytic-index="0" class="m-p-flex m-p-flex--evenly o-p-header__dropdown__cards__item active">
 												
 													<div>
-	<a href="/pasaj/cep-telefonu/ios-telefonlar/iphone-12-64-gb" class="google-analytics-device device-detail-btn m-p-pc" style="" data-product-id="iphone-12-64-gb" data-campaign="campaign,discount," data-href="/pasaj/cep-telefonu/ios-telefonlar/iphone-12-64-gb" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/cep-telefonu/apple/12/cg/1.png">
+	<a href="/pasaj/cep-telefonu/ios-telefonlar/iphone-12-64-gb" class="google-analytics-device device-detail-btn m-p-pc" data-component="PasajProductCard" style="" data-product-id="iphone-12-64-gb" data-campaign="campaign,discount," data-href="/pasaj/cep-telefonu/ios-telefonlar/iphone-12-64-gb" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/cep-telefonu/apple/12/cg/1.png">
 		
 	<span class="a-p-card-ribbon a-p-card-ribbon--red">
 		550 TL İndirim
@@ -447,8 +438,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 				<div class="m-p-pc__carousel">
 					
-					   <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-					      <div class="swiper-wrapper" style="transition-duration: 0ms;">
+					   <div class="swiper-container">
+					      <div class="swiper-wrapper">
 				      		
 		<div class="swiper-slide">
 			
@@ -541,8 +532,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	
 					      </div>
-					   <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-					   <div class="m-p-pc__carousel__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+					   </div>
+					   <div class="m-p-pc__carousel__pagination swiper-pagination"></div>
 					   
 				</div>
 			
@@ -579,7 +570,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 												
 													<div>
-	<a href="/pasaj/cep-telefonu/ios-telefonlar/iphone-11-64-gb" class="google-analytics-device device-detail-btn m-p-pc" style="" data-product-id="iphone-11-64-gb" data-campaign="campaign,discount," data-href="/pasaj/cep-telefonu/ios-telefonlar/iphone-11-64-gb" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/cep-telefonu/apple/11/cg/1.png">
+	<a href="/pasaj/cep-telefonu/ios-telefonlar/iphone-11-64-gb" class="google-analytics-device device-detail-btn m-p-pc" data-component="PasajProductCard" style="" data-product-id="iphone-11-64-gb" data-campaign="campaign,discount," data-href="/pasaj/cep-telefonu/ios-telefonlar/iphone-11-64-gb" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/cep-telefonu/apple/11/cg/1.png">
 		
 	<span class="a-p-card-ribbon a-p-card-ribbon--red">
 		600 TL İndirim
@@ -589,8 +580,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 				<div class="m-p-pc__carousel">
 					
-					   <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-					      <div class="swiper-wrapper" style="transition-duration: 0ms;">
+					   <div class="swiper-container">
+					      <div class="swiper-wrapper">
 				      		
 		<div class="swiper-slide">
 			
@@ -683,8 +674,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	
 					      </div>
-					   <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-					   <div class="m-p-pc__carousel__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+					   </div>
+					   <div class="m-p-pc__carousel__pagination swiper-pagination"></div>
 					   
 				</div>
 			
@@ -714,7 +705,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- google-analytics -->
 
         
-        <div id="google-analytics-device-informations" style="display: none;" data-section-title="Cep Telefonu - iOS Telefonlar" data-product-id="1025679" data-product-name="iPhone 11 64 GB" data-product-price="7399.0" data-product-brand="Apple" data-position="1" data-dimension21="TRY" data-dimension22="true" data-dimension25="Kontratli" data-dimension27="true" data-dimension30="Non-Turkcell" data-dimension156="true" data-dimension157="7.5" data-dimension167="567" data-dimension168="6" data-dimension169="38" data-dimension170="4.52" data-product-category="Cep Telefonu" data-dimension173="iOS Telefonlar">
+        <div id="google-analytics-device-informations" style="display: none;" data-section-title="Cep Telefonu - iOS Telefonlar" data-product-id="1025679" data-product-name="iPhone 11 64 GB" data-product-price="7399.0" data-product-brand="Apple" data-position="1" data-dimension21="TRY" data-dimension22="true" data-dimension25="Kontratli" data-dimension27="true" data-dimension30="Non-Turkcell" data-dimension156="true" data-dimension157="7.5" data-dimension167="554" data-dimension168="6" data-dimension169="38" data-dimension170="4.52" data-product-category="Cep Telefonu" data-dimension173="iOS Telefonlar">
         </div>
         <!-- google-analytics -->
 	</a>
@@ -725,14 +716,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					                        <div data-analytic-index="1" class="m-p-flex m-p-flex--evenly o-p-header__dropdown__cards__item ">
 												
 													<div>
-	<a href="/pasaj/cep-telefonu/android-telefonlar/huawei-p-smart-2019" class="google-analytics-device device-detail-btn m-p-pc" style="" data-product-id="huawei-p-smart-2019" data-campaign="campaign," data-href="/pasaj/cep-telefonu/android-telefonlar/huawei-p-smart-2019" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/cep-telefonu/huawei/p-smart-2019/cg/1.png">
+	<a href="/pasaj/cep-telefonu/android-telefonlar/huawei-p-smart-2019" class="google-analytics-device device-detail-btn m-p-pc" data-component="PasajProductCard" style="" data-product-id="huawei-p-smart-2019" data-campaign="campaign," data-href="/pasaj/cep-telefonu/android-telefonlar/huawei-p-smart-2019" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/cep-telefonu/huawei/p-smart-2019/cg/1.png">
 		
 		<div class="m-p-pc__body">
 			
 				<div class="m-p-pc__carousel">
 					
-					   <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-					      <div class="swiper-wrapper" style="transition-duration: 0ms;">
+					   <div class="swiper-container">
+					      <div class="swiper-wrapper">
 				      		
 		<div class="swiper-slide">
 			
@@ -825,8 +816,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	
 					      </div>
-					   <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-					   <div class="m-p-pc__carousel__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+					   </div>
+					   <div class="m-p-pc__carousel__pagination swiper-pagination"></div>
 					   
 				</div>
 			
@@ -852,14 +843,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 												
 													<div>
-	<a href="/pasaj/cep-telefonu/android-telefonlar/oppo-a31" class="google-analytics-device device-detail-btn m-p-pc" style="" data-product-id="oppo-a31" data-campaign="campaign," data-href="/pasaj/cep-telefonu/android-telefonlar/oppo-a31" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/cep-telefonu/oppo/a31/cg/1.png">
+	<a href="/pasaj/cep-telefonu/android-telefonlar/oppo-a31" class="google-analytics-device device-detail-btn m-p-pc" data-component="PasajProductCard" style="" data-product-id="oppo-a31" data-campaign="campaign," data-href="/pasaj/cep-telefonu/android-telefonlar/oppo-a31" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/cep-telefonu/oppo/a31/cg/1.png">
 		
 		<div class="m-p-pc__body">
 			
 				<div class="m-p-pc__carousel">
 					
-					   <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-					      <div class="swiper-wrapper" style="transition-duration: 0ms;">
+					   <div class="swiper-container">
+					      <div class="swiper-wrapper">
 				      		
 		<div class="swiper-slide">
 			
@@ -952,8 +943,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	
 					      </div>
-					   <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-					   <div class="m-p-pc__carousel__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+					   </div>
+					   <div class="m-p-pc__carousel__pagination swiper-pagination"></div>
 					   
 				</div>
 			
@@ -1152,7 +1143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					                        <div data-analytic-index="0" class="m-p-flex m-p-flex--evenly o-p-header__dropdown__cards__item active">
 												
 													<div>
-	<a href="/pasaj/bilgisayar-tablet/bilgisayarlar/casper-nirvana-c350-6287-8u00t" class="google-analytics-device device-detail-btn m-p-pc" style="" data-product-id="casper-nirvana-c350-6287-8u00t" data-campaign="campaign,discount," data-href="/pasaj/bilgisayar-tablet/bilgisayarlar/casper-nirvana-c350-6287-8u00t" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/casper/nirvana-c350-6287-8u00t/cg/1.png">
+	<a href="/pasaj/bilgisayar-tablet/bilgisayarlar/casper-nirvana-c350-6287-8u00t" class="google-analytics-device device-detail-btn m-p-pc" data-component="PasajProductCard" style="" data-product-id="casper-nirvana-c350-6287-8u00t" data-campaign="campaign,discount," data-href="/pasaj/bilgisayar-tablet/bilgisayarlar/casper-nirvana-c350-6287-8u00t" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/casper/nirvana-c350-6287-8u00t/cg/1.png">
 		
 	<span class="a-p-card-ribbon a-p-card-ribbon--red">
 		1.400 TL İndirim
@@ -1162,8 +1153,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 				<div class="m-p-pc__carousel">
 					
-					   <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-					      <div class="swiper-wrapper" style="transition-duration: 0ms;">
+					   <div class="swiper-container">
+					      <div class="swiper-wrapper">
 				      		
 		<div class="swiper-slide">
 			
@@ -1256,8 +1247,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	
 					      </div>
-					   <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-					   <div class="m-p-pc__carousel__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+					   </div>
+					   <div class="m-p-pc__carousel__pagination swiper-pagination"></div>
 					   
 				</div>
 			
@@ -1302,14 +1293,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					                        <div data-analytic-index="2" class="m-p-flex m-p-flex--evenly o-p-header__dropdown__cards__item ">
 												
 													<div>
-	<a href="/pasaj/bilgisayar-tablet/tabletler/samsung-galaxy-tab-a7-sm-t500" class="google-analytics-device device-detail-btn m-p-pc" style="" data-product-id="samsung-galaxy-tab-a7-sm-t500" data-campaign="campaign," data-href="/pasaj/bilgisayar-tablet/tabletler/samsung-galaxy-tab-a7-sm-t500" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/samsung/galaxy-tab-a7/cg/1a.png">
+	<a href="/pasaj/bilgisayar-tablet/tabletler/samsung-galaxy-tab-a7-sm-t500" class="google-analytics-device device-detail-btn m-p-pc" data-component="PasajProductCard" style="" data-product-id="samsung-galaxy-tab-a7-sm-t500" data-campaign="campaign," data-href="/pasaj/bilgisayar-tablet/tabletler/samsung-galaxy-tab-a7-sm-t500" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/samsung/galaxy-tab-a7/cg/1a.png">
 		
 		<div class="m-p-pc__body">
 			
 				<div class="m-p-pc__carousel">
 					
-					   <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-					      <div class="swiper-wrapper" style="transition-duration: 0ms;">
+					   <div class="swiper-container">
+					      <div class="swiper-wrapper">
 				      		
 		<div class="swiper-slide">
 			
@@ -1402,8 +1393,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	
 					      </div>
-					   <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-					   <div class="m-p-pc__carousel__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+					   </div>
+					   <div class="m-p-pc__carousel__pagination swiper-pagination"></div>
 					   
 				</div>
 			
@@ -1969,14 +1960,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					                        <div data-analytic-index="7" class="m-p-flex m-p-flex--evenly o-p-header__dropdown__cards__item ">
 												
 													<div>
-	<a href="/pasaj/hobi-oyun/dronelar/dji-mavic-mini-fly-more-combo-drone" class="google-analytics-device device-detail-btn m-p-pc" style="" data-product-id="dji-mavic-mini-fly-more-combo-drone" data-campaign="campaign," data-href="/pasaj/hobi-oyun/dronelar/dji-mavic-mini-fly-more-combo-drone" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/aksesuar/dji-mavic/mini-fly-more-combo-drone/cg/1.png">
+	<a href="/pasaj/hobi-oyun/dronelar/dji-mavic-mini-fly-more-combo-drone" class="google-analytics-device device-detail-btn m-p-pc" data-component="PasajProductCard" style="" data-product-id="dji-mavic-mini-fly-more-combo-drone" data-campaign="campaign," data-href="/pasaj/hobi-oyun/dronelar/dji-mavic-mini-fly-more-combo-drone" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/aksesuar/dji-mavic/mini-fly-more-combo-drone/cg/1.png">
 		
 		<div class="m-p-pc__body">
 			
 				<div class="m-p-pc__carousel">
 					
-					   <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-					      <div class="swiper-wrapper" style="transition-duration: 0ms;">
+					   <div class="swiper-container">
+					      <div class="swiper-wrapper">
 				      		
 		<div class="swiper-slide">
 			
@@ -2069,8 +2060,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	
 					      </div>
-					   <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-					   <div class="m-p-pc__carousel__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+					   </div>
+					   <div class="m-p-pc__carousel__pagination swiper-pagination"></div>
 					   
 				</div>
 			
@@ -2197,14 +2188,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					                        <div data-analytic-index="1" class="m-p-flex m-p-flex--evenly o-p-header__dropdown__cards__item ">
 												
 													<div>
-	<a href="/pasaj/televizyon-muzik/medya-oynaticilar/tv-plus-ready" class="google-analytics-device device-detail-btn m-p-pc" style="" data-product-id="tv-plus-ready" data-campaign="" data-href="/pasaj/televizyon-muzik/medya-oynaticilar/tv-plus-ready" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/aksesuar/turkcell/tv-plus-ready/cg/1b.png">
+	<a href="/pasaj/televizyon-muzik/medya-oynaticilar/tv-plus-ready" class="google-analytics-device device-detail-btn m-p-pc" data-component="PasajProductCard" style="" data-product-id="tv-plus-ready" data-campaign="" data-href="/pasaj/televizyon-muzik/medya-oynaticilar/tv-plus-ready" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/aksesuar/turkcell/tv-plus-ready/cg/1b.png">
 		
 		<div class="m-p-pc__body">
 			
 				<div class="m-p-pc__carousel">
 					
-					   <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-					      <div class="swiper-wrapper" style="transition-duration: 0ms;">
+					   <div class="swiper-container">
+					      <div class="swiper-wrapper">
 				      		
 		<div class="swiper-slide">
 			
@@ -2261,8 +2252,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	
 					      </div>
-					   <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-					   <div class="m-p-pc__carousel__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+					   </div>
+					   <div class="m-p-pc__carousel__pagination swiper-pagination"></div>
 					   
 				</div>
 			
@@ -2287,7 +2278,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- google-analytics -->
 
         
-        <div id="google-analytics-device-informations" style="display: none;" data-section-title="Televizyon &amp; Müzik - Medya Oynatıcılar" data-product-id="1029619" data-product-name="TV+ Ready" data-product-price="899.0" data-product-brand="Turkcell" data-position="1" data-dimension21="TRY" data-dimension22="false" data-dimension25="Kontratli" data-dimension27="true" data-dimension30="Non-Turkcell" data-dimension156="true" data-dimension157="0" data-dimension167="117" data-dimension168="3" data-dimension169="10" data-dimension170="4.73" data-product-category="Televizyon &amp; Müzik" data-dimension173="Medya Oynatıcılar">
+        <div id="google-analytics-device-informations" style="display: none;" data-section-title="Televizyon &amp; Müzik - Medya Oynatıcılar" data-product-id="1029619" data-product-name="TV+ Ready" data-product-price="899.0" data-product-brand="Turkcell" data-position="1" data-dimension21="TRY" data-dimension22="false" data-dimension25="Kontratli" data-dimension27="true" data-dimension30="Non-Turkcell" data-dimension156="true" data-dimension157="0" data-dimension167="116" data-dimension168="3" data-dimension169="10" data-dimension170="4.73" data-product-category="Televizyon &amp; Müzik" data-dimension173="Medya Oynatıcılar">
         </div>
         <!-- google-analytics -->
 	</a>
@@ -2475,7 +2466,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="o-p-header__dropdown__item" id="login-menu">
 					
 	
-	<div class="o-p-header__dropdown__login" data-login="{
+	<div class="o-p-header__dropdown__login" data-component="PasajLogin" data-login="{
 		&quot;appId&quot;: 80006,
 		&quot;desktop&quot;:true,
 		&quot;loginSdkUrl&quot;: &quot;https://tsdk.turkcell.com.tr/SERVICE/AuthAPI/serviceLogin.json&quot;,
@@ -2491,7 +2482,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	    &quot;CAPTCHA_REQUIRED&quot;: &quot;Güvenlik kodunu giriniz.&quot;,
 	    &quot;BACKEND_ERROR&quot;: &quot;Bir sorun var, düzeltmek için çalışıyoruz.&quot;
 		},
-		&quot;fastLoginUrl&quot;: &quot;https://hizligiris.com.tr/hizligiris/oauth/authorize?client_id=turkcellweb&amp;scope=openid%20phone&amp;redirect_uri=https://www.turkcell.com.tr/giris/mobile_connect&amp;response_type=code&amp;acr_values=2&amp;state=k4r9vnwo2c4cxkmfb3kudtzi8&amp;prompt=login&amp;max_age=3600&amp;display=page&amp;ui_locales=tr&amp;claims_locales=tr&quot;
+		&quot;fastLoginUrl&quot;: &quot;https://hizligiris.com.tr/hizligiris/oauth/authorize?client_id=turkcellweb&amp;scope=openid%20phone&amp;redirect_uri=https://www.turkcell.com.tr/giris/mobile_connect&amp;response_type=code&amp;acr_values=2&amp;state=kk6k3ot7d89evst1hchwd1bn0&amp;prompt=login&amp;max_age=3600&amp;display=page&amp;ui_locales=tr&amp;claims_locales=tr&quot;
 		}">
 		
 <div class="m-p-grid">
@@ -2536,12 +2527,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<a href="javascript:;" class="o-p-header__dropdown__login__title js-entrance-login-button">Turkcell Şifre ile Giriş</a>
 					
 
-<form method="post" action="/giris" class="m-p-form" novalidate="true">
+<form method="post" action="/giris" class="m-p-form" data-component="PasajForm">
 	
 						<div class="m-p-form__row js-login-gsm">
 							
-	<div class="a-p-input">
-		<input id="input-1" name="msisdn" class="" type="tel" autocomplete="off" data-mask="tel" data-pristine-required-message="passage.login.msisdn.required.message" data-pristine-pattern-message="passage.login.msisdn.pattern.message" required="" pattern="/^0\s\(5+[0-9]{2}\)\s[0-9]{3}\s[0-9]{2}\s[0-9]{2}/" placeholder="0 (5__) ___ __ __" value="" data-dirty="true">
+	<div class="a-p-input" data-component="PasajFormInput">
+		<input id="input-1" name="msisdn" class="" type="tel" autocomplete="off" data-mask="tel" data-pristine-required-message="passage.login.msisdn.required.message" data-pristine-pattern-message="passage.login.msisdn.pattern.message" required="" pattern="/^0\s\(5+[0-9]{2}\)\s[0-9]{3}\s[0-9]{2}\s[0-9]{2}/" placeholder="0 (5__) ___ __ __" value="">
 		<label for="input-1">GSM Numaranız</label>
 		
 	</div>
@@ -2550,8 +2541,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<div class="m-p-form__row">
 							
-	<div class="a-p-input a-p-input--password">
-		<input id="input-2" name="password" class="a-p-input--password" type="password" autocomplete="off" data-pristine-required-message="passage.login.password.required.message" required="" maxlength="15" minlength="6" data-pristine-minlength-message="Bu alanın uzunluğu 6 karakter veya daha fazla olmalıdır." value="" data-dirty="false">
+	<div class="a-p-input a-p-input--password" data-component="PasajFormInput">
+		<input id="input-2" name="password" class="a-p-input--password" type="password" autocomplete="off" data-pristine-required-message="passage.login.password.required.message" required="" maxlength="15" minlength="6" data-pristine-minlength-message="Bu alanın uzunluğu 6 karakter veya daha fazla olmalıdır." value="">
 		<label for="input-2">Şifreniz</label>
 		
 <a class="a-btn-icon-p js-toggle-password" href="javascript:;" title="">
@@ -2562,10 +2553,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
 
 						</div>
-						<div class="js-login-captcha" data-hidden="true">
+						<div class="js-login-captcha">
 							<div class="m-p-form__row">
 								
-	<div class="m-p-captcha" data-sdk-url="https://tsdk.turkcell.com.tr/SERVICE/AuthAPI/captcha.json">
+	<div class="m-p-captcha" data-component="PasajCaptcha" data-sdk-url="https://tsdk.turkcell.com.tr/SERVICE/AuthAPI/captcha.json">
 		<div class="m-p-captcha__code">
 			<img src="https://img-turkcellweb.mncdn.com/static_lib/passage-assets/common/images/spacer.gif" alt="Captcha Code">
 		</div>
@@ -2577,8 +2568,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 							<div class="m-p-form__row">
 								
-	<div class="a-p-input">
-		<input id="input-3" name="captcha" class="" type="text" autocomplete="off" data-pristine-required-message="passage.login.captcha.required.message" maxlength="20" value="" data-dirty="false">
+	<div class="a-p-input" data-component="PasajFormInput">
+		<input id="input-3" name="captcha" class="" type="text" autocomplete="off" data-pristine-required-message="passage.login.captcha.required.message" required="" maxlength="20" value="">
 		<label for="input-3">passage.login.captcha</label>
 		
 	</div>
@@ -2620,13 +2611,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			</div>
         
-        	<div class="a-p-lottie-animation a-p-lottie-animation--loading" data-animation="Loading"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1230 1230" width="1230" height="1230" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px);"><defs><clipPath id="__lottie_element_2"><rect width="1230" height="1230" x="0" y="0"></rect></clipPath></defs><g clip-path="url(#__lottie_element_2)"><g style="display: none;"><g><path></path></g></g><g transform="matrix(0,0,0,0,620.510009765625,617.448974609375)" opacity="0.66" style="display: block;"><g opacity="1" transform="matrix(2,0,0,2,0,0)"><path fill="rgb(26,94,167)" fill-opacity="0.88" d=" M0,-494 C272.63861083984375,-494 494,-272.63861083984375 494,0 C494,272.63861083984375 272.63861083984375,494 0,494 C-272.63861083984375,494 -494,272.63861083984375 -494,0 C-494,-272.63861083984375 -272.63861083984375,-494 0,-494z"></path></g></g><g transform="matrix(0,0,0,0,620.510009765625,617.448974609375)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(2,0,0,2,0,0)"><path fill="rgb(22,109,177)" fill-opacity="0.58" d=" M0,-333 C183.78269958496094,-333 333,-183.78269958496094 333,0 C333,183.78269958496094 183.78269958496094,333 0,333 C-183.78269958496094,333 -333,183.78269958496094 -333,0 C-333,-183.78269958496094 -183.78269958496094,-333 0,-333z"></path></g></g><g style="display: none;"><g><path></path></g></g><g style="display: none;"><g><path></path></g></g><g transform="matrix(0,0,0,0,620.510009765625,617.448974609375)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(2,0,0,2,0,0)"><path fill="rgb(40,54,135)" fill-opacity="0.31" d=" M0,-113 C62.36470031738281,-113 113,-62.36470031738281 113,0 C113,62.36470031738281 62.36470031738281,113 0,113 C-62.36470031738281,113 -113,62.36470031738281 -113,0 C-113,-62.36470031738281 -62.36470031738281,-113 0,-113z"></path></g></g><g transform="matrix(0,0,0,0,620.510009765625,617.448974609375)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(2,0,0,2,0,0)"><path fill="rgb(255,200,0)" fill-opacity="1" d=" M43.0099983215332,-61.189998626708984 C35.119998931884766,-66.70999908447266 26.079999923706055,-70.6500015258789 15.9399995803833,-72.98999786376953 C-0.6899999976158142,-76.83999633789062 -16.8700008392334,-75.0999984741211 -32.459999084472656,-68.22000122070312 C-41.08000183105469,-64.41000366210938 -48.709999084472656,-59.16999816894531 -55.27000045776367,-52.4900016784668 C-63.470001220703125,-44.15999984741211 -69.4000015258789,-34.709999084472656 -73.01000213623047,-24.170000076293945 C-73.2300033569336,-23.510000228881836 -73.33999633789062,-23.139999389648438 -73.45999908447266,-22.760000228881836 C-77.16000366210938,-10.569999694824219 -73.69999694824219,-3.8399999141693115 -68.26000213623047,-9.479999542236328 C-68.05000305175781,-9.720000267028809 -67.83000183105469,-9.960000038146973 -67.61000061035156,-10.199999809265137 C-61,-18.389999389648438 -50.869998931884766,-24.969999313354492 -50.869998931884766,-24.969999313354492 C-48.290000915527344,-26.739999771118164 -45.61000061035156,-28.389999389648438 -42.81999969482422,-29.93000030517578 C-39.63999938964844,-31.770000457763672 -36.310001373291016,-33.459999084472656 -33.20000076293945,-34.599998474121094 C-33.20000076293945,-34.599998474121094 -30.31999969482422,-35.900001525878906 -29.549999237060547,-39.86000061035156 C-28.959999084472656,-43.4900016784668 -25.3799991607666,-52.560001373291016 -15.25,-53.150001525878906 C-12.079999923706055,-53.58000183105469 -8.930000305175781,-53.02000045776367 -6.150000095367432,-51.720001220703125 C-1.2599999904632568,-49.43000030517578 2.4800000190734863,-44.84000015258789 3.240000009536743,-39.310001373291016 C3.8499999046325684,-34.91999816894531 2.7799999713897705,-30.770000457763672 0.5099999904632568,-27.489999771118164 C0.3799999952316284,-27.309999465942383 0.23999999463558197,-27.1200008392334 0.09000000357627869,-26.93000030517578 C-1.9500000476837158,-24.329999923706055 -4.550000190734863,-22.450000762939453 -7.659999847412109,-21.389999389648438 C-9.520000457763672,-20.709999084472656 -11.40999984741211,-20.3700008392334 -13.220000267028809,-20.31999969482422 C-14.369999885559082,-20.170000076293945 -15.630000114440918,-20.31999969482422 -16.889999389648438,-20.6200008392334 C-18.31999969482422,-20.90999984741211 -19.6299991607666,-21.3799991607666 -20.760000228881836,-22.010000228881836 C-22.709999084472656,-22.90999984741211 -24.299999237060547,-23.93000030517578 -24.889999389648438,-24.459999084472656 C-25.350000381469727,-24.8799991607666 -25.850000381469727,-25.110000610351562 -26.329999923706055,-25.229999542236328 C-27.399999618530273,-25.399999618530273 -28.270000457763672,-25.200000762939453 -28.90999984741211,-24.93000030517578 C-29.280000686645508,-24.770000457763672 -29.559999465942383,-24.59000015258789 -29.760000228881836,-24.450000762939453 C-32.18000030517578,-22.450000762939453 -34.4900016784668,-20.360000610351562 -36.68000030517578,-18.170000076293945 C-42.41999816894531,-12.210000038146973 -47.2400016784668,-5.449999809265137 -49.5099983215332,-2.109999895095825 C-50.709999084472656,-0.20999999344348907 -51.849998474121094,1.7200000286102295 -52.91999816894531,3.7200000286102295 C-53.90999984741211,5.570000171661377 -54.84000015258789,7.440000057220459 -55.70000076293945,9.319999694824219 C-57.040000915527344,12.3100004196167 -58.310001373291016,15.520000457763672 -59.439998626708984,18.969999313354492 C-59.4900016784668,19.1299991607666 -59.54999923706055,19.290000915527344 -59.599998474121094,19.440000534057617 C-59.66999816894531,19.65999984741211 -59.7400016784668,19.8799991607666 -59.79999923706055,20.100000381469727 C-59.869998931884766,20.31999969482422 -59.93000030517578,20.530000686645508 -60,20.75 C-66.97000122070312,44.29999923706055 -54.41999816894531,57.88999938964844 -43.90999984741211,43.689998626708984 C-43.33000183105469,42.790000915527344 -42.75,41.900001525878906 -42.150001525878906,41.0099983215332 C-31.110000610351562,22.170000076293945 -8.510000228881836,8.59000015258789 -8.510000228881836,8.59000015258789 C-7.110000133514404,7.71999979019165 -5.710000038146973,6.889999866485596 -4.300000190734863,6.079999923706055 C-0.15000000596046448,3.740000009536743 3.8299999237060547,1.7799999713897705 7.929999828338623,0.05999999865889549 C11.579999923706055,-1.5399999618530273 15.449999809265137,-3.0299999713897705 18.670000076293945,-3.799999952316284 C18.670000076293945,-3.799999952316284 22.43000030517578,-4.769999980926514 23.440000534057617,-9.34000015258789 C24.170000076293945,-12.619999885559082 26.56999969482422,-17.420000076293945 32.02000045776367,-20 C33.29999923706055,-20.639999389648438 34.63999938964844,-21.1299991607666 35.9900016784668,-21.420000076293945 C37.45000076293945,-21.739999771118164 38.90999984741211,-21.860000610351562 40.33000183105469,-21.790000915527344 C41.27000045776367,-21.809999465942383 42.04999923706055,-21.709999084472656 42.720001220703125,-21.510000228881836 C49.619998931884766,-20.200000762939453 55.279998779296875,-14.609999656677246 56.099998474121094,-7.239999771118164 C57.099998474121094,1.7000000476837158 50.810001373291016,9.770000457763672 41.79999923706055,10.880000114440918 C37.310001373291016,11.430000305175781 33.25,10.470000267028809 29.780000686645508,7.880000114440918 C25.889999389648438,6.28000020980835 22.899999618530273,7.300000190734863 21.81999969482422,7.800000190734863 C18.43000030517578,9.630000114440918 15.170000076293945,11.649999618530273 12.0600004196167,13.880000114440918 C6.260000228881836,18.1200008392334 1.659999966621399,22.549999237060547 -0.17000000178813934,24.3799991607666 C-4.170000076293945,28.469999313354492 -7.71999979019165,32.81999969482422 -10.789999961853027,37.41999816894531 C-10.949999809265137,37.66999816894531 -11.119999885559082,37.91999816894531 -11.279999732971191,38.18000030517578 C-14.579999923706055,43.36000061035156 -17.940000534057617,49.72999954223633 -20.719999313354492,57.43000030517578 C-20.93000030517578,58.040000915527344 -21.139999389648438,58.630001068115234 -21.329999923706055,59.2400016784668 C-24.299999237060547,69.12999725341797 -17.8700008392334,73.06999969482422 -10.4399995803833,74.5 C-9.260000228881836,74.63999938964844 -8.079999923706055,74.76000213623047 -6.889999866485596,74.8499984741211 C-6.599999904632568,74.87000274658203 -6.309999942779541,74.94999694824219 -6.019999980926514,75 C-6.019999980926514,75 3.7699999809265137,75 3.7699999809265137,75 C4.260000228881836,74.95999908447266 4.699999809265137,74.91999816894531 5.070000171661377,74.87999725341797 C7.190000057220459,74.62000274658203 9.3100004196167,74.4000015258789 11.40999984741211,74.05000305175781 C25.8799991607666,71.61000061035156 38.66999816894531,65.66000366210938 49.59000015258789,55.970001220703125 C63.34000015258789,43.779998779296875 71.62000274658203,28.600000381469727 74.19999694824219,10.5600004196167 C76.7699966430664,-7.510000228881836 73.16000366210938,-24.450000762939453 63.25,-39.880001068115234 C57.66999816894531,-48.560001373291016 50.90999984741211,-55.66999816894531 43.0099983215332,-61.189998626708984z"></path></g></g></g></svg></div>
+        	<div class="a-p-lottie-animation" data-animation="Loading" data-component="PasajLottieAnimation"></div>
         </div>
-    </header>
-      <a class="hype_image-bar" href="https://www.turkcell.com.tr/kampanyalar/pasaj/cihazlar/turkcell-pasajda-250-tlye-varan-hediye-ceki-firsati">
-         <img src="http://useruploads.visualwebsiteoptimizer.com/useruploads/439264/images/0e3b668c81b57a5b5018077c9dbc64f8_ustbandv4.jpg">
-      </a>
-      	
+    </header>	
 	
 
     <main class="p-p-homepage">
@@ -2727,7 +2714,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 <section id="product-detail" class="product-detail">
 	<div class="container">
-		<div class="product-detail-top">
+		<div class="product-detail-top" data-component="ProductImageColorChange">
 			<input type="hidden" id="deviceId" value="e5994e0b-cfc2-42d4-b2df-cb9728117d9a">
 			
 <div class="m-grid">
@@ -2736,12 +2723,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  	
 					<div class="m-slider--device-slider img-zoom-container">
 						
-<div class="m-slider">
-	<div class="m-slider__swiper swiper-container swiper-container-initialized swiper-container-horizontal">
-		<div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+<div data-component="{ &quot;type&quot;: &quot;Slider&quot; , &quot;pagination&quot;: true, &quot;navigation&quot;: true }" id="" class="m-slider">
+	<div class="m-slider__swiper swiper-container">
+		<div class="swiper-wrapper">
 							
 								
-				<div class="swiper-slide swiper-lazy swiper-slide-active" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/1a.png" style="width: 558px;">
+				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/1a.png">
 					
 									
 
@@ -2753,13 +2740,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/1a.png?111121191111896" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/1a.png">
+<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/1a.png?111121191111896" data-component="ImageZoom" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/1a.png">
 								
 				</div>
 			
 							
 								
-				<div class="swiper-slide swiper-lazy swiper-slide-next" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/2a.png" style="width: 558px;">
+				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/2a.png">
 					
 									
 
@@ -2771,13 +2758,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/2a.png?111121191111896" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/2a.png">
+<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/2a.png?111121191111896" data-component="ImageZoom" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/2a.png">
 								
 				</div>
 			
 							
 								
-				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/3a.png" style="width: 558px;">
+				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/3a.png">
 					
 									
 
@@ -2789,13 +2776,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/3a.png?111121191111896" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/3a.png">
+<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/3a.png?111121191111896" data-component="ImageZoom" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/3a.png">
 								
 				</div>
 			
 							
 								
-				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/4a.png" style="width: 558px;">
+				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/4a.png">
 					
 									
 
@@ -2807,13 +2794,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/4a.png?111121191111896" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/4a.png">
+<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/4a.png?111121191111896" data-component="ImageZoom" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/4a.png">
 								
 				</div>
 			
 							
 								
-				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/5a.png" style="width: 558px;">
+				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/5a.png">
 					
 									
 
@@ -2825,13 +2812,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/5a.png?111121191111896" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/5a.png">
+<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/5a.png?111121191111896" data-component="ImageZoom" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/5a.png">
 								
 				</div>
 			
 							
 								
-				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/6a.png" style="width: 558px;">
+				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/6a.png">
 					
 									
 
@@ -2843,13 +2830,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/6a.png?111121191111896" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/6a.png">
+<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/6a.png?111121191111896" data-component="ImageZoom" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/6a.png">
 								
 				</div>
 			
 							
 								
-				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/7a.png" style="width: 558px;">
+				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/7a.png">
 					
 									
 
@@ -2861,13 +2848,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/7a.png?111121191111896" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/7a.png">
+<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/7a.png?111121191111896" data-component="ImageZoom" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/7a.png">
 								
 				</div>
 			
 							
 								
-				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/8a.png" style="width: 558px;">
+				<div class="swiper-slide swiper-lazy" data-color-id="#293133" data-target="" data-background="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/8a.png">
 					
 									
 
@@ -2879,17 +2866,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/8a.png?111121191111896" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/8a.png">
+<img src="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/8a.png?111121191111896" data-component="ImageZoom" class="zoom-image lazyloaded" data-zoom-image="https://img-turkcellweb.mncdn.com//SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/8a.png">
 								
 				</div>
 			
 							
 						</div>
-	<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+	</div>
 	
 			<div class="container m-slider__container">
 				
-<a class="a-btn-icon m-slider__prev a-btn-icon--circle a-btn-icon--disabled" href="javascript:;" title="">
+<a class="a-btn-icon m-slider__prev a-btn-icon--circle" href="javascript:;" title="">
 	<i class="icon-arrow-left"></i>
 	"
 </a>
@@ -2899,7 +2886,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
 			</div>
 		
-			<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 6"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 7"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 8"></span></div>
+			<div class="swiper-pagination"></div>
 		
 </div>
 						<i class="a-icon icon-zoom"></i>
@@ -2917,7 +2904,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  	
 					<h1 class=" ">HP Pavilion Gaming 15-dk0005nt (6ZL09EA) / Intel Core i5-9300H / 8GB Ram / 1TB + 128GB SSD / W10 / 15.6 inç FHD / GeForce GTX 1650 4GB</h1>
 
-					<div class="product-detail__rates m-t-20" data-target="#all-comments">
+					<div class="product-detail__rates m-t-20" data-target="#all-comments" data-component="SmoothScroll">
 						
 							
 		<div class="a-rate">
@@ -2953,11 +2940,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								
 
 								
-								<div id="last-stock-message" style="display: none;">
+								<div id="last-stock-message" style="display: block;">
 									<strong></strong>
 								</div>
 							</div>
-							<form class="m-form" data-parsley-validate="data-parsley-validate" data-parsley-excluded="disabled, :hidden" novalidate="">
+							<form class="m-form" data-parsley-validate="data-parsley-validate" data-parsley-excluded="disabled, :hidden">
 								
 								<div class="product-detail__property" data-child-size="1">
 									<div class="m-flex">
@@ -2965,11 +2952,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="m-product-color" style="display: block;">
 		<div class="select2-color__title">RENK</div>
 		
-	<select class="m-select m-select-color select2-hidden-accessible" readonly="" name="" data-parsley-errors-container="#select--error" data-select2-id="1" tabindex="-1" aria-hidden="true" disable-clicks="false">
+	<select class="m-select m-select-color" data-component="{&quot;type&quot;:&quot;ColorSelect&quot;, &quot;color&quot;:true,&quot;native&quot;:null,&quot;component&quot;:&quot;ColorSelect&quot;,&quot;attrs&quot;:{&quot;readonly&quot;:true}}" readonly="" name="" id="" data-parsley-errors-container="#select--error">
 		
-			<option value="1003552" data-stock-available="true" data-price="9.499" data-stock-message="" data-at-basket="false" data-seller-id="1" data-seller-name="TURKCELL" data-old-price="11.499" data-discount-text="Ocak Fırsatları" data-option-id="1003552" data-cargo-sla="2 İş Gününde Kargoda" data-psi-id="1065604" data-color-name="SIYAH" data-turkcell-sketched-price="null" data-turkcell-price="9499.0" data-turkcell-psi="1065604" data-turkcell-price-discount-ratio="null" data-turkcell-amount="80" data-icon="" data-color="#000000" data-title="" title="SIYAH" selected="selected" data-select2-id="3">SIYAH</option>
+			<option value="1003552" data-stock-available="true" data-price="9.499" data-stock-message="" data-at-basket="false" data-seller-id="1" data-seller-name="TURKCELL" data-old-price="11.499" data-discount-text="Ocak Fırsatları" data-option-id="1003552" data-cargo-sla="2 İş Gününde Kargoda" data-psi-id="1065604" data-color-name="SIYAH" data-turkcell-sketched-price="null" data-turkcell-price="9499.0" data-turkcell-psi="1065604" data-turkcell-price-discount-ratio="null" data-turkcell-amount="80" data-icon="" data-color="#000000" data-title="" title="SIYAH" selected="selected">SIYAH</option>
 		
-	</select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="2" style="width: 280px;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2--container"><span class="select2-selection__rendered" id="select2--container" role="textbox" aria-readonly="true" title="SIYAH"><div class="select2-color"><div class="select2-option--color select2-option--border" style="background-color:#000000"></div><div class="select2-icons__value">SIYAH</div></div></span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+	</select>
 	<div class="m-select-error" id="select--error"></div>
 
 	</div>
@@ -2979,8 +2966,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 
 								
-    <div class="a-price-radio-b price-radio-contracted" data-gtm-vis-recent-on-screen-116191_982="931" data-gtm-vis-first-on-screen-116191_982="931" data-gtm-vis-total-visible-time-116191_982="100" data-gtm-vis-has-fired-116191_982="1">
-        <input checked="" name="price" type="radio" class="product-basket-type" id="s0--5792253610088370981" data-type="contracted" data-buy-btn-title="Sepete Ekle" data-parsley-multiple="price"> <label class="a-price-radio-b__label" for="s0--5792253610088370981">
+    <div class="a-price-radio-b price-radio-contracted">
+        <input checked="" name="price" type="radio" class="product-basket-type" id="s0--7445772136893210088" data-type="contracted" data-buy-btn-title="Sepete Ekle"> <label class="a-price-radio-b__label" for="s0--7445772136893210088">
 
         
         <div class="a-price-radio-b__label__top">
@@ -2997,7 +2984,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			  
         </div>
 
-        <div class="a-tag-radio" role="radiogroup" aria-label="Taksitler" ...attrs="">
+        <div class="a-tag-radio" role="radiogroup" aria-label="Taksitler" data-component="TagRadio" ...attrs="">
             
 <a class="a-btn a-btn a-btn--tag a-btn--tag--white-blue month-options" href="javascript:;" title="6 AY" data-price="1.795,75" data-period="6" data-month="AY">
 	6 AY
@@ -3046,7 +3033,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								
 								
     <div class="a-price-radio-b price-radio-cash a-price-radio-b--advantage ">
-        <input name="price" type="radio" class="product-basket-type" id="s0-194317890912378909" data-type="cash" data-buy-btn-title="Sepete Ekle" data-parsley-multiple="price"> <label class="a-price-radio-b__label" for="s0-194317890912378909">
+        <input name="price" type="radio" class="product-basket-type" id="s0--5431613977379579101" data-type="cash" data-buy-btn-title="Sepete Ekle"> <label class="a-price-radio-b__label" for="s0--5431613977379579101">
 
         
             <span class="a-price-radio-b__badge">Avantajlı Teklif</span>
@@ -3065,21 +3052,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			  
         </div>
 
-        <div class="a-tag-radio" role="radiogroup" aria-label="Taksitler" ...attrs="">
+        <div class="a-tag-radio" role="radiogroup" aria-label="Taksitler" data-component="TagRadio" ...attrs="">
             
         </div>
 
         
-                <div class="a-price-radio-b__left-text">TURKCELL | 2 İş Gününde Kargoda</div>
+                <div class="a-price-radio-b__left-text">
+                        TURKCELL |
+                                2&nbsp;
+                                İş gününde kargoda
+                            <span class="tooltip" data-tooltip-content="#avantajli-teklif" data-component="{&quot;type&quot;:&quot;Tooltip&quot;,&quot;addActiveClass&quot;:true}">
+                                <i class="icon-p icon-p-information"></i>
+                            </span>
+                </div>
                 <div class="a-price-radio-b__note">
-                <span class="a-price a-price--discount"><s class="a-price__old turkcell-price">11.499</s><sup> <span class="turkcell-ratio"></span></sup></span>
+                <span class="a-price a-price--discount"><s class="a-price__old turkcell-price"></s><sup> <span class="turkcell-ratio"></span></sup></span>
                 </div>
             
 
         <div class="a-price-radio-b__note">
             
 					<span class="a-price a-price--discount" style="display: none">
-						<s class="a-price__old">11.499</s> <sup> TL <span class="discount-text">Ocak Fırsatları</span>
+						<s class="a-price__old"></s> <sup> TL <span class="discount-text"></span>
 					</sup>
 					</span>
             
@@ -3103,10 +3097,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 								<button class="a-btn a-btn--full a-btn--blue a-btn--big product-detail__long-btn notify-me-button js-pasaj-stock-button" style=" display: none" href="javascript:;">Stoğa gelince haber ver</button>
-								<button class="a-btn a-btn--full a-btn--big device-available add-to-basket-non-login" style="display: block" data-onbasket-text="Sepetinizde" data-add-text="Sepete Ekle">Sepete Ekle</button>
+								<button class="a-btn a-btn--full a-btn--big device-available add-to-basket-non-login" style="display: block" data-onbasket-text="Sepetinizde" data-add-text="Sepete Ekle" data-component="ProductLogin">Sepete Ekle</button>
 
 
-                                <div class="product-detail__top-offer-box" data-max-list="2" data-device="desktop" data-list-target=".product-detail-top-offer-box__list" data-detail-target="#product-detail-offer-box" style="display: none;">
+                                <div class="product-detail__top-offer-box" data-component="OfferBox" data-max-list="2" data-device="desktop" data-list-target=".product-detail-top-offer-box__list" data-detail-target="#product-detail-offer-box">
                                     <input type="hidden" class="js-offer-data" value="[]">
                                     <h6>Diğer Satıcılar</h6>
                                     <div class="product-detail-top-offer-box__list"></div>
@@ -3118,7 +3112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							
 		<div class="m-purchase-features m-purchase-features--images">
 			
-	<div class="m-purchase-features__item tooltip tooltipstered" data-tooltip-content="#free-cargo">
+	<div class="m-purchase-features__item tooltip" data-tooltip-content="#free-cargo" data-component="{&quot;type&quot;:&quot;Tooltip&quot;,&quot;addActiveClass&quot;:true}">
 		
 		<span class="a-btn-icon a-btn-icon--medium-b a-btn-icon--circle">
 		
@@ -3130,7 +3124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 
 
-	<div class="m-purchase-features__item tooltip tooltipstered" data-tooltip-content="#turkcell-warranty">
+	<div class="m-purchase-features__item tooltip" data-tooltip-content="#turkcell-warranty" data-component="{&quot;type&quot;:&quot;Tooltip&quot;,&quot;addActiveClass&quot;:true}">
 		
 		<span class="a-btn-icon a-btn-icon--medium-b a-btn-icon--circle">
 		
@@ -3142,7 +3136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 
 
-	<div class="m-purchase-features__item tooltip tooltipstered" data-tooltip-content="#installment">
+	<div class="m-purchase-features__item tooltip" data-tooltip-content="#installment" data-component="{&quot;type&quot;:&quot;Tooltip&quot;,&quot;addActiveClass&quot;:true}">
 		
 		<span class="a-btn-icon a-btn-icon--medium-b a-btn-icon--circle">
 		
@@ -3205,7 +3199,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div style="display: none" id="errorMsg">Sepete ekleme işleminde hata oluştu</div>
 
-<div id="modal-stock" component="ModalStock" class="m-modal m-modal--stock-email" style="width: 40% !important; max-width: unset !important;">
+<div id="modal-stock" component="ModalStock" class="m-modal m-modal--stock-email" data-component="{&quot;id&quot;:&quot;modal-stock&quot;,&quot;type&quot;:&quot;ModalStock&quot;,&quot;component&quot;:&quot;ModalStock&quot;,&quot;body&quot;:{}}" style="width: 40% !important; max-width: unset !important;">
 	<div class="m-modal__body">
 		<form class="m-form" data-parsley-validate="data-parsley-validate" data-parsley-excluded="disabled, :hidden" novalidate="" data-url="https://www.turkcell.com.tr/pasaj/addNotifyMe/bilgisayar-tablet/hp-pavilion-gaming-15-dk0005nt-6zl09ea">
 			
@@ -3222,7 +3216,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<button class="a-btn a-btn--full modal-stock-email" style="width: 50%;">Haberdar Et</button>
 			</div>
 
-			<input type="hidden" name="salesInfoId" id="salesInfoId" value="1065604">
+			<input type="hidden" name="salesInfoId" id="salesInfoId" value="">
 			
 				<input type="hidden" class="js-stock-redirectUrl" value="/pasaj/bilgisayar-tablet/bilgisayarlar/oyun-bilgisayari/hp-pavilion-gaming-15-dk0005nt-6zl09ea">
 			
@@ -3236,7 +3230,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </div>
 
-<div id="modal-stock-confirmed" class="m-modal m-modal--stock-email-confirmed">
+<div id="modal-stock-confirmed" class="m-modal m-modal--stock-email-confirmed" data-component="{&quot;id&quot;:&quot;modal-stock-confirmed&quot;,&quot;type&quot;:&quot;Modal&quot;,&quot;body&quot;:{},&quot;foot&quot;:{}}">
 	<div class="m-modal__body">
 		<p></p>
 	</div>
@@ -3249,7 +3243,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</a>
 </div>
 
-<div id="modal-delete" class="m-modal m-modal--regular">
+<div id="modal-delete" class="m-modal m-modal--regular" data-component="{&quot;id&quot;:&quot;modal-logout&quot;,&quot;type&quot;:&quot;Modal&quot;,&quot;body&quot;:{},&quot;foot&quot;:{}}">
 	<div class="m-modal__body">
 		<div class="a-icon-svg a-icon-svg--big">
 			
@@ -3355,7 +3349,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="product-detail-offer-box" class="product-detail-offer-box">
 	<div class="container">
 
-		<form class="m-form" data-parsley-validate="data-parsley-validate" data-parsley-excluded="disabled, :hidden" novalidate="">
+		<form class="m-form" data-parsley-validate="data-parsley-validate" data-parsley-excluded="disabled, :hidden">
 		<h5>DİĞER TEKLİFLER</h5>
 		<div class="product-detail-offer-box__list"></div>
 		<div class="m-grid justify-content-end">
@@ -3387,9 +3381,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-	<section id="product-detail-info" class="white">
+	<section id="product-detail-info" class="white" data-component="{&quot;lessText&quot;:&quot;Daha Az&quot;,&quot;scrollToTop&quot;:true,&quot;type&quot;:&quot;MoreContent&quot;}">
 		<div class="m-product-detail-info">
-			<div class="js-more-container" style="height: 438.109px;">
+			<div class="js-more-container" style="height: 300px;">
 				<article class="js-more-content__first">
 					<div class="container">
 						<div class="clearfix"><div class="clearfix"><div class="visual pull-right">       <img src="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/ag/1a.jpg" alt=""></div><h2>Çok oyunculu oyunlar ve çoklu görevler için<br></h2><p>İnce ve güçlü HP Pavilion Dizüstü Oyun Bilgisayarı hiçbir şeyden taviz vermez. Oyunlarda ve çoklu görevlerde yüksek<br>kaliteli grafiklerin ve işlem gücünün yanı sıra genel performans ve kararlılığa yönelik olarak gelişmiş termal soğutma<br>deneyimi. Dar çerçeveli ekran ve isteğe göre ayarlanabilen sesle adeta oyunun içine gireceksin. İş ile oyun arasındaki bu<br>mükemmel denge sayesinde her şeyi yapabilirsin.</p></div> </div>
@@ -3440,8 +3434,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<section id="product-detail-features" class="product-detail__features">
 		<div class="container">
-			<div class="m-product-detail-features">
-				<div class="js-more-container" style="height: 392px;">
+			<div class="m-product-detail-features" data-component="{&quot;lessText&quot;:&quot;Daha Az&quot;,&quot;scrollToTop&quot;:true,&quot;type&quot;:&quot;MoreContent&quot;}">
+				<div class="js-more-container" style="height: 174px;">
 					<div class="js-more-content__first">
 						
 						<h3 class="text-center">Genel Özellikler</h3>
@@ -3715,7 +3709,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-		<section id="all-comments" class="product-detail__all-comments white">
+		<section id="all-comments" class="product-detail__all-comments white" data-component="{&quot;type&quot;: &quot;CommentMoreInfinite&quot;, &quot;url&quot;: &quot;https://www.turkcell.com.tr/pasaj/comments/bilgisayar-tablet/hp-pavilion-gaming-15-dk0005nt-6zl09ea&quot;,&quot;refreshable&quot;:true }">
 			<div class="container container--narrow">
 				<h2 class="text-center"></h2>
 				<span class="text-center">
@@ -3893,24 +3887,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 							</div>
 						</div>
-						<div class="m-grid-col-6 js-first-comment-container">
-        <div class="m-comment-block-view--v2__container js-comment-block" id="47439">
-            <span class="m-comment-block-view__most-popular">En Popüler Yorum</span>
-            <h3 class="m-comment-block-view__title">pavilion / omen ?</h3>
-            <div class="a-rate m-comment-block-view__rate">
-                <div class="a-rate__star" data-point="3.0&quot;"><span class="icon-star-filled"></span><span class="icon-star-filled"></span><span class="icon-star-filled"></span><span class="icon-star"></span><span class="icon-star"></span></div><div class="a-rate__point">3.0</div>
-            </div>
-            <span class="m-comment-block-view__misc">fatih tek | 22.11.2020
-    </span>
-
-            <div class="toggle-content m-comment-block-view__comment" data-char-limit="110">
-                <p><span class="toggle-content__block">merhaba ürün görseli omen modeline ait açıklamada modeli pavilion olarak belirtilmiş hangisi doğru?</span> </p>
-            </div>
-            <div class="m-comment-block-view__helpful">Bu yorumu faydalı buldunuz mu?
-                <div class="a-like" data-service-url="https://www.turkcell.com.tr/pasaj/comments/bilgisayar-tablet/hp-pavilion-gaming-15-dk0005nt-6zl09ea/47439?like=81&amp;dislike=44"><a href="javascript:;" class="like">81</a><a href="javascript:;" class="dislike">44</a></div>
-            </div>
-        </div>
-    </div>
+						<div class="m-grid-col-6 js-first-comment-container"></div>
 					</div>
 				</div>
 
@@ -3920,21 +3897,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         </section>
     
-        <div id="modal-comment" class="m-modal m-modal--comment">
+        <div id="modal-comment" class="m-modal m-modal--comment" data-component="{&quot;id&quot;:&quot;modal-comment&quot;,&quot;type&quot;:&quot;Modal&quot;,&quot;body&quot;:{}}">
             <div class="m-modal__body">
                 
 
 <div class="m-comment-block-view--v3">
 	<h2 class="text-center">Yorum Yaz</h2>
-	<div class="m-comment-block-view--v3" data-url="https://www.turkcell.com.tr/pasaj/submitReview/bilgisayar-tablet/hp-pavilion-gaming-15-dk0005nt-6zl09ea">
+	<div class="m-comment-block-view--v3" data-url="https://www.turkcell.com.tr/pasaj/submitReview/bilgisayar-tablet/hp-pavilion-gaming-15-dk0005nt-6zl09ea" data-component="Comment">
 				
-	<form class="m-form" data-parsley-validate="data-parsley-validate" data-parsley-excluded="disabled" data-parsley-inputs="input, input[type=hidden], textarea, :hidden" novalidate="">
+	<form class="m-form" data-parsley-validate="data-parsley-validate" data-parsley-excluded="disabled" data-parsley-inputs="input, input[type=hidden], textarea, :hidden">
 					
 		
 		<div class="m-grid">
 			<div class="m-grid-col-5 m-grid-offset-right-1">
 				<div class="m-comment-block-view--v3__title">Ürünle ilgili aşağıdan puan verin</div>
-				<div class="m-rating">
+				<div class="m-rating" data-component="Rating">
 					<div class="m-rating__row m-rating__row--head">
 						<span class="m-rating__title">Genel Puan</span>
 						<div class="a-rate a-rate--large js-general-rating">
@@ -4073,7 +4050,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						
 
 				</div>
-					<div class="m-accordion m-accordion--plus">
+					<div class="m-accordion m-accordion--plus" data-component="{&quot;showOnlyOne&quot;:false,&quot;type&quot;:&quot;Accordion&quot;}">
 						<div class="m-accordion__container">
 							<div class="m-accordion__head">
 								<i></i> <span>Yorum Kuralları</span>
@@ -4084,8 +4061,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>
 					
-	<label class="a-checkbox m-b-10" required="true" name="checkbox-2" for="checkbox-2">
-	  <input type="checkbox" required="true" name="checkbox-2" id="checkbox-2" data-parsley-multiple="checkbox-2">
+	<label class="a-checkbox m-b-10" required="true" name="checkbox-2" for="checkbox-2" data-component="FormCheckbox">
+	  <input type="checkbox" required="true" name="checkbox-2" id="checkbox-2">
 	  <span>Yorum kurallarını kabul ediyorum</span>
 	</label>
 
@@ -4095,8 +4072,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="m-form-group">
 					<div class="m-form-group__child">
 						
-	<div class="a-input">
-		<input id="input-4" name="reviewName" type="text" data-parsley-pattern="/^[a-zA-Z\u0080-\uFFFF ]*$/" required="true" maxlength="150" class="" value="" data-dirty="false">
+	<div class="a-input" data-component="{&quot;type&quot;:&quot;Input&quot;, &quot;onlyLetters&quot;:true}">
+		<input id="input-4" name="reviewName" type="text" data-parsley-pattern="/^[a-zA-Z\u0080-\uFFFF ]*$/" required="true" maxlength="150" class="" value="">
 		<label for="input-4">Adı Soyadı</label>
 		
 
@@ -4107,8 +4084,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="m-form-group">
 					<div class="m-form-group__child">
 						
-	<div class="a-input">
-		<input id="input-5" name="reviewEmail" type="text" data-parsley-type="email" required="true" maxlength="150" class="" value="" data-dirty="false">
+	<div class="a-input" data-component="{&quot;type&quot;:&quot;Input&quot;}">
+		<input id="input-5" name="reviewEmail" type="text" data-parsley-type="email" required="true" maxlength="150" class="" value="">
 		<label for="input-5">E-mail</label>
 		
 
@@ -4119,8 +4096,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="m-form-group">
 					<div class="m-form-group__child">
 						
-	<div class="a-input">
-		<input id="input-6" name="reviewTitle" type="text" maxlength="100" class="" value="" data-dirty="false">
+	<div class="a-input" data-component="{&quot;type&quot;:&quot;Input&quot;}">
+		<input id="input-6" name="reviewTitle" type="text" maxlength="100" class="" value="">
 		<label for="input-6">Yorum Başlığı</label>
 		
 			<label class="chars">100 Karakter</label>
@@ -4134,8 +4111,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="m-form-group__child">
 						
 	<div class="a-textarea-error" id="textarea01-error">
-		<div class="a-textarea">
-			<textarea maxlength="500" rows="5" class=" " name="reviewBody" id="textarea-01" data-parsley-errors-container="#textarea01-error" data-parsley-class-handler="#textarea01-error" value="" data-parsley-required="" data-dirty="false"></textarea>
+		<div class="a-textarea" data-component="Textarea">
+			<textarea maxlength="500" rows="5" class=" " name="reviewBody" id="textarea-01" data-parsley-errors-container="#textarea01-error" data-parsley-class-handler="#textarea01-error" value="" data-parsley-required=""></textarea>
 			<label for="textarea-01">Yorum</label>
 			<label class="chars">500 Karakter</label>
 		</div>
@@ -4147,7 +4124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="m-form-group">
   <div class="m-form-group__child">
     
-	<div class="m-captcha">
+	<div class="m-captcha" data-component="{&quot;type&quot;: &quot;Captcha&quot;, &quot;sdkUrl&quot;: &quot;https://www.turkcell.com.tr/pasaj/captcha/bilgisayar-tablet/hp-pavilion-gaming-15-dk0005nt-6zl09ea&quot; ,&quot;refreshable&quot;: true}">
 	  <div class="m-captcha__code">
 	  	<img src="https://s.turkcell.com.tr/static_lib/assetsv2/common/images/loading.gif" alt="Captcha Code">
 	  </div>
@@ -4164,8 +4141,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="m-form-group">
   <div class="m-form-group__child">
     
-	<div class="a-input">
-		<input id="input-7" name="captcha" type="text" required="true" maxlength="20" class="" value="" data-dirty="false">
+	<div class="a-input" data-component="{&quot;type&quot;:&quot;Input&quot;, &quot;onlyDigits&quot;:true}">
+		<input id="input-7" name="captcha" type="text" required="true" maxlength="20" class="" value="">
 		<label for="input-7">Güvenlik Kodu</label>
 		
 			<label class="chars">20 Karakter</label>
@@ -4281,7 +4258,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div style="display: none" class="card-product-div">
 	
-	<a href="/pasaj/bilgisayar-tablet/bilgisayarlar/oyun-bilgisayari/hp-pavilion-gaming-15-dk0005nt-6zl09ea" class="google-analytics-device device-detail-btn m-p-pc" style="" data-product-id="hp-pavilion-gaming-15-dk0005nt-6zl09ea" data-campaign="campaign,discount," data-href="/pasaj/bilgisayar-tablet/bilgisayarlar/oyun-bilgisayari/hp-pavilion-gaming-15-dk0005nt-6zl09ea" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/1a.png">
+	<a href="/pasaj/bilgisayar-tablet/bilgisayarlar/oyun-bilgisayari/hp-pavilion-gaming-15-dk0005nt-6zl09ea" class="google-analytics-device device-detail-btn m-p-pc" data-component="PasajProductCard" style="" data-product-id="hp-pavilion-gaming-15-dk0005nt-6zl09ea" data-campaign="campaign,discount," data-href="/pasaj/bilgisayar-tablet/bilgisayarlar/oyun-bilgisayari/hp-pavilion-gaming-15-dk0005nt-6zl09ea" data-image-url="https://img-turkcellweb.mncdn.com/SiteAssets/Cihaz/notebook-tablet/hp/pavilion-gaming-15-dk0005nt-6zl09ea/cg/1a.png">
 		
 	<span class="a-p-card-ribbon a-p-card-ribbon--red">
 		2.000 TL İndirim
@@ -4291,8 +4268,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 				<div class="m-p-pc__carousel">
 					
-					   <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-					      <div class="swiper-wrapper" style="transition-duration: 0ms;">
+					   <div class="swiper-container">
+					      <div class="swiper-wrapper">
 				      		
 		<div class="swiper-slide">
 			
@@ -4385,8 +4362,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	
 					      </div>
-					   <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-					   <div class="m-p-pc__carousel__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+					   </div>
+					   <div class="m-p-pc__carousel__pagination swiper-pagination"></div>
 					   
 				</div>
 			
@@ -4869,10 +4846,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="container-p">
 				<div class="o-p-footer__partners">
 					
-<div id="" class="m-p-slider">
-	<div class="swiper-container swiper-container-initialized swiper-container-horizontal">
-		<div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
-		<div class="swiper-slide swiper-slide-active" style="margin-right: 32px;">
+<div data-component="PasajSlider" id="" class="m-p-slider">
+	<div class="swiper-container">
+		<div class="swiper-wrapper">
+		<div class="swiper-slide">
 			
 					            <a href="http://www.lifecell.com.tr/" title="Lifecell" target="blank">
 					               <figure>
@@ -4892,7 +4869,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide swiper-slide-next" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="http://fizy.com" title="Fizy" target="blank">
 					               <figure>
@@ -4912,7 +4889,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="http://yaani.com.tr" title="Yaani" target="blank">
 					               <figure>
@@ -4932,7 +4909,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="https://www.turkcell.com.tr/5g5t" title="5G5T" target="blank">
 					               <figure>
@@ -4952,7 +4929,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="https://www.turksporu.com.tr/" title="turksporu" target="blank">
 					               <figure>
@@ -4972,7 +4949,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="http://bip.com" title="BiP" target="blank">
 					               <figure>
@@ -4992,7 +4969,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="http://www.turkiyeninuygulamalari.com/" title="Türkiye'nin Uygulamaları" target="blank">
 					               <figure>
@@ -5012,7 +4989,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="http://www.tvplus.com.tr/" title="Turkcell TV" target="blank">
 					               <figure>
@@ -5032,7 +5009,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="https://mylifebox.com/" title="Lifebox" target="blank">
 					               <figure>
@@ -5052,7 +5029,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="http://paycell.com.tr/" title="Paycell" target="blank">
 					               <figure>
@@ -5072,7 +5049,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="http://arikovani.com/" title="Arıkovanı" target="blank">
 					               <figure>
@@ -5092,7 +5069,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="https://www.turkcell.com.tr/gnctrkcll" title="Gnctrkcll" target="blank">
 					               <figure>
@@ -5112,7 +5089,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="https://www.globalbilgi.com.tr/" title="Turkcell Global Bilgi" target="blank">
 					               <figure>
@@ -5132,7 +5109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="http://playcell.com/" title="Playcell" target="blank">
 					               <figure>
@@ -5152,7 +5129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="https://www.superonline.net/" title="Turkcell Superonline" target="blank">
 					               <figure>
@@ -5172,7 +5149,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="https://partner.turkcell.com.tr" title="Turkcell Partner Program" target="blank">
 					               <figure>
@@ -5192,7 +5169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="https://gelecegiyazanlar.turkcell.com.tr/" title="Turkcell Geleceği Yazanlar" target="blank">
 					               <figure>
@@ -5212,7 +5189,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="http://www.turkcelldiyalogmuzesi.com/" title="Turkcell Diyalog Müzesi" target="blank">
 					               <figure>
@@ -5232,7 +5209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	
-		<div class="swiper-slide" style="margin-right: 32px;">
+		<div class="swiper-slide">
 			
 					            <a href="https://turkcellbulut.com/" title="Turkcell Akıllı Bulut" target="blank">
 					               <figure>
@@ -5252,11 +5229,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          					
 		</div>
 	</div>
-	<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+	</div>
 	
 		<div class="m-p-slider__nav">
-			<span class="m-p-slider__nav__prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"></span>
-			<span class="m-p-slider__nav__next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></span>
+			<span class="m-p-slider__nav__prev"></span>
+			<span class="m-p-slider__nav__next"></span>
 		</div>
 		
 </div>
@@ -5364,333 +5341,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
 
 
-<script type="text/javascript" id="">dataLayer.push({googleRemarketing:{dynx_pagetype:"offerdetail",dynx_itemid:"1030441"}});</script><script type="text/javascript" id="">function createCookie(b,d,c){if(c){var a=new Date;a.setTime(a.getTime()+864E5*c);c="; expires\x3d"+a.toGMTString()}else c="";document.cookie=b+"\x3d"+d+c+"; path\x3d/"}function createCookieObject(){var b={},d=document.cookie;d=d.split("; ");for(var c=0;c<d.length;c++){var a=d[c].split("\x3d");if("undefined"===typeof b[a[0]])b[a[0]]=a[1];else if("string"===typeof b[a[0]]){var e=[b[a[0]],a[1]];b[a[0]]=e}else b[a[0]].push(a[1])}return b}
-function createQueryObject(){var b={},d=window.location.search.substring(1);d=d.split("\x26");for(var c=0;c<d.length;c++){var a=d[c].split("\x3d");if("undefined"===typeof b[a[0]])b[a[0]]=a[1];else if("string"===typeof b[a[0]]){var e=[b[a[0]],a[1]];b[a[0]]=e}else b[a[0]].push(a[1])}return b};</script>
-
-<script type="text/javascript" id="">var existingChannels="",existingSources="",landingPage=!1,currentChannel="",currentSource="",MC_cookies=document.cookie,cookieCharLimit=4096;
-if(-1==MC_cookies.indexOf("MC_landing")||-1!=document.URL.indexOf("utm_source")||-1!=document.referrer.indexOf("google.com")||-1!=document.referrer.indexOf("yandex.com")||30<document.referrer.indexOf("turkcell.com.tr")||-1==document.referrer.indexOf("turkcell.com.tr")){createCookie("MC_landing",1);landingPage=!0;var CookieString=createCookieObject(),QueryString=createQueryObject();"undefined"===typeof QueryString.utm_source?""===document.referrer?currentSource=currentChannel="(direct)":-1!=document.referrer.indexOf("google.com")?
-(currentChannel="Organic",currentSource="Google"):-1!=document.referrer.indexOf("yandex.com")?(currentChannel="Organic",currentSource="Yandex"):currentChannel=document.referrer.match(/:\/\/(.[^/]+)/)[1]:(currentSource=QueryString.utm_source+"/"+QueryString.utm_medium+"/"+QueryString.utm_campaign+"/"+QueryString.utm_content,currentChannel=QueryString.utm_source);"undefined"!=typeof CookieString.mcfChannels&&(4096<CookieString.mcfSourceDetails.length&&(CookieString.mcfSourceDetails=CookieString.mcfSourceDetails.substring(CookieString.mcfSourceDetails.indexOf("\x3e")+
-1,CookieString.mcfSourceDetails.length),CookieString.mcfChannels=CookieString.mcfChannels.substring(CookieString.mcfChannels.indexOf("\x3e")+1,CookieString.mcfChannels.length)),existingChannels=CookieString.mcfChannels,existingSources=CookieString.mcfSourceDetails);existingSources.substring(existingSources.lastIndexOf("\x3e")+1,existingSources.length)!=currentSource&&(0<existingSources.length&&(existingChannels+="\x3e",existingSources+="\x3e"),createCookie("mcfChannels",existingChannels+currentChannel,
-180),createCookie("mcfSourceDetails",existingSources+currentSource,180),createCookie("mcfLastInteraction",currentChannel+" | "+currentSource,180));""==existingChannels&&createCookie("mcfFirstInteraction",currentChannel+" | "+currentSource,180)};</script><script type="text/javascript" id="">try{document.addEventListener("click",function(a){if(-1<a.target.className.indexOf("_radio_checkbox_text")&&-1<a.target.className.indexOf("_hj")){var b=document.querySelector("[class*\x3dquestion_text]").innerText.trim(),c=a.target.innerText.trim();a=null!==a.target.parentNode.parentNode.parentNode.id.match(/_(.)$/)?a.target.parentNode.parentNode.parentNode.id.match(/_(.)$/)[1]:1;null!==document.cookie.match(/_hjDonePolls=(.*?);/)&&document.cookie.match(/_hjDonePolls=(.*?);/);a=document.querySelector("[id*\x3dquestion_text_"+
-a+"]").innerText;window.hj=window.hj||function(){(hj.q=hj.q||[]).push(arguments)};hj("ready",function(){hj("tagRecording",["Anket - "+b])});window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"GAEvent",eventCategory:"Hotjar Poll",eventAction:b,eventLabel:a+" -\x3e "+c,ecoption:"false"})}},!1)}catch(a){console.log(a)};</script><script type="text/javascript" id="">hype={pagedata:{},logger:{groupOpened:!1},modal:{},exitIntent:{},create:{},query:{},hyperootdomain:window.location.host,listenedFunctions:{},lastListenedEvent:null,dataLayerIndex:-1,dataLayerEcIndex:-1,loggerstarted:!1,what:Object.prototype.toString,asciilogo:"  _                      \n | |                     \n | |__  _   _ _ __   ___ \n | '_ \\| | | | '_ \\ / _ \\\n | | | | |_| | |_) |  __/\n |_| |_|\\__, | .__/ \\___|\n         __/ | |         \n        |___/|_|         ",isObjectEmpty:function(a){for(var b in a)if(Object.prototype.hasOwnProperty.call(a,
-b))return!1;return!0},cleanObjectValues:function(a){var b={},c;for(c in a)a.hasOwnProperty(c)&&("[object Object]"==hype.what.call(a[c])?0==isObjectEmpty(a[c])&&(b[c]=a[c]):"[object Array]"==hype.what.call(a[c])?0!==a[c].length&&""!==a[c][0]&&(b[c]=a[c]):"[object String]"==hype.what.call(a[c])?""!==a[c]&&"undefined"!==a[c]&&"null"!==a[c]&&(b[c]=a[c]):"[object Number]"==hype.what.call(a[c])?b[c]=a[c]:"[object Boolean]"==hype.what.call(a[c])&&(b[c]=a[c]));return b}};
-window.hype.addObjectValue=function(a,b,c){"[object Object]"==hype.what.call(a)&&("[object Object]"==hype.what.call(c)?0==isObjectEmpty(c)&&(a[b]=c):"[object Array]"==hype.what.call(c)?0!==c.length&&""!==c[0]&&(a[b]=c):"[object String]"==hype.what.call(c)?""!==c&&"undefined"!==c&&"null"!==c&&""!==b&&(a[b]=c):"[object Number]"==hype.what.call(c)?a[b]=c:"[object Boolean]"==hype.what.call(c)&&(a[b]=c))};
-window.hype.isDataLayerLoaded=function(){if(1==window.hasOwnProperty("dataLayer"))for(var a=0,b=window.dataLayer.length;a<b;a++)1==window.dataLayer[a].hasOwnProperty("ecommerce")&&(window.hype.dataLayerEcIndex=a),1==window.dataLayer[a].hasOwnProperty("arrPort")&&(window.hype.dataLayerIndex=a);return-1!==hype.dataLayerIndex?!0:!1};
-window.hype.getDataLayerVariable=function(a){var b=null;if(1==window.hasOwnProperty("dataLayer"))for(var c=0,d=window.dataLayer.length;c<d;c++)1==window.dataLayer[c].hasOwnProperty(a)&&(b=window.dataLayer[c][a]);return b};window.hype.getDataLayerIndexByEvent=function(a){var b=-1;if(1==window.hasOwnProperty("dataLayer"))for(var c=0,d=window.dataLayer.length;c<d;c++)1==window.dataLayer[c].hasOwnProperty("event")&&window.dataLayer[c].event==a&&(b=c);return b};
-hype.logger.isActive=function(){if(Storage)return!0===localStorage.getItem("hypeLogger")?!0:!1};hype.logger.activate=function(){Storage&&(localStorage.setItem("hypeLogger",!0),confirm("Hype logger aktifle\u015ftirildi, sayfay\u0131 yenileyim mi?")&&location.reload())};hype.logger.stop=function(){Storage&&(localStorage.setItem("hypeLogger",!1),confirm("Hype logger kapat\u0131ld\u0131, sayfay\u0131 yenileyim mi?")&&location.reload())};
-hype.logger.info=function(a){"true"==localStorage.getItem("hypeLogger")&&(!1===hype.loggerstarted&&(console.log(hype.asciilogo),hype.loggerstarted=!0),console.info("[HYPE Bilgi]: "+a))};hype.logger.warn=function(a){"true"==localStorage.getItem("hypeLogger")&&(!1===hype.loggerstarted&&(console.log(hype.asciilogo),hype.loggerstarted=!0),console.warn("[HYPE Uyar\u0131]: "+a))};
-hype.whichDevice=function(){var a=navigator.userAgent||navigator.vendor||window.opera;return/windows phone/i.test(a)?"Windows Phone":/android/i.test(a)?"Android":/iPad|iPhone|iPod/.test(a)&&!window.MSStream?"iOS":"unknown"};hype.logger.group=function(){"true"==localStorage.getItem("hypeLogger")&&!1===hype.logger.groupOpened&&(console.group(),hype.logger.groupOpened=!0)};hype.logger.groupEnd=function(){"true"==localStorage.getItem("hypeLogger")&&(console.groupEnd(),hype.logger.groupOpened=!1)};
-window.hype.checkifloaded=function(a,b,c,d,e){var g=!1;"undefined"==typeof window.hype.checkerSlot&&(window.hype.checkerSlot=[]);var f=window.hype.checkerSlot;"number"!==typeof e&&(e=f.length,f[f.length]=0);var h=c||100,k=d||50;setTimeout(function(){!1===window.eval(a)&&f[e]<1E3*k/h&&!1===g?(hype.logger.info(a+" ifadesi true d\u00f6nmedi, "+c+"ms bekliyorum."),f[e]++,window.hype.checkifloaded(a,b,h,k,e)):f[e]>=1E3*k/h?hype.logger.warn("s\u00fcre doldu ne yazik ki bulamadik"):(hype.logger.info("ifade "+
-50*(f[e]+1)/1E3+" saniyede bulundu, fonksiyonu calistiriyorum"),g=!0,b())},h)};hype.treatAsUTC=function(a){a=new Date(a);a.setMinutes(a.getMinutes()-a.getTimezoneOffset());return a};
-window.hype.dateIsBetween=function(a,b,c){if("undefined"==typeof a)return!1;var d=/(\d{2})\-(\d{2})-(\d{4})/;b="function"===typeof b.getMonth?b:new Date(b.replace(d,"$3-$2-$1"));var e="function"===typeof c.getMonth?c:new Date(c.replace(d,"$3-$2-$1"));a="function"===typeof a.getMonth?c:new Date(a.replace(d,"$3-$2-$1"));return a<e&&a>b||a.getTime()==b.getTime()&&b.getTime()==e.getTime()?!0:!1};
-hype.setCookie=function(a,b,c){var d=new Date;d.setTime(d.getTime()+864E5*c);d="expires\x3d"+d.toUTCString();document.cookie=0==c?a+"\x3d"+b+"; domain\x3d."+hype.hyperootdomain+";path\x3d/":a+"\x3d"+b+"; "+d+"; domain\x3d."+hype.hyperootdomain+";path\x3d/"};hype.getCookie=function(a){a+="\x3d";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var d=b[c];" "==d.charAt(0);)d=d.substring(1);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return""};
-hype.checkCookie=function(a){return""!=hype.getCookie(a)?!0:!1};hype.removeCookie=function(a){var b="expires\x3dThu, 01 Jan 1970 00:00:00 UTC;";document.cookie=a+"\x3d; "+b+"domain\x3d."+hype.hyperootdomain+";path\x3d/";document.cookie=a+"\x3d; "+b+"path\x3d/";document.cookie=a+"\x3d; "+b};hype.toFixed=function(a,b){b=b||0;var c=Math.pow(10,b),d=Math.abs(Math.round(a*c));a=(0>a?"-":"")+String(Math.floor(d/c));0<b&&(c=String(d%c),b=Array(Math.max(b-c.length,0)+1).join("0"),a+="."+b+c);return a};
-window.hype.isInCampSaleDate=function(a,b){var c=new Date;a=new Date(a);a.setHours(0);a.setMinutes(1);b=new Date(b);b.setHours(23);b.setMinutes(59);return b>c&&a<c||c.toDateString()==a.toDateString()&&a.toDateString()==b.toDateString()?!0:!1};window.hype.isInCampSaleDate2=function(a){var b=new Date,c=/(\d{2})\-(\d{2})-(\d{4})/;a="function"===typeof a.getMonth?a:new Date(a.replace(c,"$3-$2-$1"));b=Math.abs(a.getTime()-b.getTime());b=Math.ceil(b/864E5);return 10<b?!0:!1};
-window.hype.dateIsBetween=function(a,b,c){if("undefined"==typeof a)return!1;var d=/(\d{2})\-(\d{2})-(\d{4})/;b="function"===typeof b.getMonth?b:new Date(b.replace(d,"$3-$2-$1"));var e="function"===typeof c.getMonth?c:new Date(c.replace(d,"$3-$2-$1"));a="function"===typeof a.getMonth?c:new Date(a.replace(d,"$3-$2-$1"));return a<e&&a>b||a.getTime()==b.getTime()&&b.getTime()==e.getTime()?!0:!1};
-hype.titleChange=function(a){titleName=a.titleName||"HYPE";session=a.session||0;if(0!=session){""!=titleName&&(window.document.title=titleName);window.fakeCookie=0;window.onbeforeunload=function(a){localStorage.removeItem("sessionTimeout")};if(localStorage.getItem("sessionTimeout")){a=localStorage.getItem("sessionTimeout");a=a.split(":");a=a[0].trim()+"."+a[1].trim();a=parseFloat(a);var b=6E4*a}else b=6E4*session;var c=setInterval(function(){b-=1E3;var a=Math.floor(b/6E4),e=Math.floor((b-6E4*a)/1E3);
-localStorage.setItem("sessionTimeout",a+" : "+e);1>=b?clearInterval(c):(window.document.title=localStorage.getItem("sessionTimeout")+" - "+titleName,0==a&&1==e&&(window.document.title=window.document.title))},1E3)}else""!=titleName&&(window.document.title=titleName);""!=favicon&&(window.favico=document.createElement("link"),window.document.head.appendChild(favico),window.favico.outerHTML='\x3clink rel\x3d"icon" id\x3d"favicon" href\x3d"'+favicon+'"\x3e')};
-hype.modal=function(a){void 0==a&&(a={});var b=a.className||"",c=a.idName||"",d=a.width||"50vw",e=a.height||"500px",g=a.left||"calc(50% - 25vw)",f=a.right||"auto",h=a.top||"calc(50% - 250px)",k=a.bottom||"auto",p=a.background||"#fff",q=a.padding||"25px",m=a.position||"fixed",n=a.display||"block",r=a.closeImg||"https://hypeistanbul.com/img/close.jpg";a=a.html||"";var l='\x3cstyle class\x3d"hypeModalStyle"\x3e';l+=".hypeModal {width:"+d+"; height:"+e+"; left:"+g+"; right:"+f+"; top:"+h+"; bottom:"+
-k+"; background:"+p+"; padding:"+q+"; position:"+m+"; z-index: 9999; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; display:"+n+";} .hypeModalBlocker {width:100%; height:100vh; position:"+m+"; left:0; top:0; z-index: 9990; background:rgba(0,0,0,0.7);  display:"+n+";} .hypeClose {width:40px; height:40px; position:absolute; right:-20px; top:-20px; background:url("+r+") no-repeat center center; background-size:100%;}";l+="\x3c/style\x3e";document.head.insertAdjacentHTML("beforeend",
-l);b='\x3cdiv class\x3d"hypeModal '+b+'" id\x3d"'+c+'"\x3e \x3ca href\x3d"javascript:;" class\x3d"hypeClose"\x3e\x3c/a\x3e \x3cdiv class\x3d"hypeModalContent"\x3e '+a+" \x3c/div\x3e  \x3c/div\x3e";document.querySelector("body").insertAdjacentHTML("beforeend",b);0==document.querySelectorAll(".hypeModalBlocker").length?(b='\x3cdiv class\x3d"hypeModalBlocker"\x3e \x3c/div\x3e',document.querySelector("body").insertAdjacentHTML("beforeend",b)):document.querySelector(".hypeModalBlocker").style.display=
-"block";if(0!==document.querySelectorAll(".hypeClose").length)for(b=0;b<document.querySelectorAll(".hypeClose").length;b++)document.querySelectorAll(".hypeClose")[b].addEventListener("click",function(){hype.modal.hide()});if(0!==document.querySelectorAll(".hypeModalBlocker").length)for(b=0;b<document.querySelectorAll(".hypeModalBlocker").length;b++)document.querySelectorAll(".hypeModalBlocker")[b].addEventListener("click",function(){hype.modal.hide()})};
-hype.modal.hide=function(a){a=a||".hypeModal";var b=document.querySelectorAll(a).length;0!==document.querySelectorAll(".hypeModalBlocker").length&&(document.querySelector(".hypeModalBlocker").style.display="none");for(var c=0;c<b;c++)0!==document.querySelectorAll(a).length&&(document.querySelectorAll(a)[c].style.display="none")};
-hype.modal.show=function(a){a=a||".hypeModal";var b=document.querySelectorAll(a).length;0!==document.querySelectorAll(".hypeModalBlocker").length&&(document.querySelector(".hypeModalBlocker").style.display="block");for(var c=0;c<b;c++)0!==document.querySelectorAll(a).length&&(document.querySelectorAll(a)[c].style.display="block")};
-hype.exitIntent=function(a,b){void 0==a&&(a={});var c=a.cookie||"1";"function"!==typeof b&&(b=function(){hype.logger.warn("Herhangi bir fonksiyon yaz\u0131lmas\u0131 laz\u0131m!")});document.addEventListener("mouseleave",function(a){0>a.clientY&&("1"==c?!0!==hype.checkCookie("hype-exit")&&(hype.setCookie("hype-exit",!0),cookieStatus=!1,b()):b())},!1)};
-hype.append=function(a){void 0==a&&(a={});var b=a.selectorName||"body",c=a.position||"beforeend";html=a.html||"";document.querySelector(b).insertAdjacentHTML(c,html)};hype.abtest=function(a,b,c,d){0==hype.getCookie(a)?dataLayer.push({event:"GAEvent",eventCategory:"Testing",eventAction:b,eventLabel:"Test "+c+": Original"}):(dataLayer.push({event:"GAEvent",eventCategory:"Testing",eventAction:b,eventLabel:"Test "+c+": Variation 1"}),d())};hype.insertAfter=function(a,b){b.parentNode.insertBefore(a,b.nextSibling)};
-hype.insertBefore=function(a,b){b.parentNode.insertBefore(a,b)};hype.click=function(a,b){document.querySelectorAll(a).forEach(function(a){a.addEventListener("click",b)})};hype.focus=function(a,b){document.querySelectorAll(a).forEach(function(a){a.addEventListener("focus",b)})};hype.blur=function(a,b){document.querySelectorAll(a).forEach(function(a){a.addEventListener("blur",b)})};
-hype.addEventHandler=function(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)};hype.change=function(a,b){document.querySelectorAll(a).forEach(function(a){a.addEventListener("change",b)})};hype.keyup=function(a,b){document.querySelectorAll(a).forEach(function(a){a.addEventListener("keyup",b)})};hype.keypress=function(a,b){document.querySelectorAll(a).forEach(function(a){a.addEventListener("keypress",b)})};
-hype.keydown=function(a,b){document.querySelectorAll(a).forEach(function(a){a.addEventListener("keydown",b)})};hype.selectAll=function(a){return document.querySelectorAll(a)};hype.select=function(a){return document.querySelector(a)};hype.screenwidth=function(){var a=window,b=document,c=b.documentElement;b=b.getElementsByTagName("body")[0];return a=a.innerWidth||c.clientWidth||b.clientWidth};
-hype.ajaxget=function(a,b){var c=new XMLHttpRequest;c.open("GET",a,!0);c.send();c.onreadystatechange=function(){4==this.readyState&&200==this.status&&b(this.responseText)}};hype.ajaxpost=function(a,b,c,d){c=new XMLHttpRequest;c.open("POST",a,!0);c.setRequestHeader("Content-type","application/x-www-form-urlencoded");c.send(b);c.onreadystatechange=function(){4==this.readyState&&200==this.status&&d(this.responseText)}};hype.encode64=function(a){return btoa(a)};hype.decode64=function(a){return atob(a)};
-hype.getUrlParameter=function(a){var b=window.location.search.substring(1);b=b.split("\x26");var c;for(c=0;c<b.length;c++){var d=b[c].split("\x3d");if(d[0]===a)return void 0===d[1]?!0:decodeURIComponent(d[1])}};
-hype.isMobile=function(){return/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0,
-4))?!0:!1};hype.addListenFuncList=function(a,b){hype.listenedFunctions=hype.listenedFunctions||{};1==hype.listenedFunctions.hasOwnProperty(a)?hype.listenedFunctions[a].push(b):hype.listenedFunctions[a]=[b]};
-window.hype.executeListenedEvent=function(a){if(""!=a&&"undefined"!=a&&"null"!=a){window.hj=window.hj||function(){(hj.q=hj.q||[]).push(arguments)};hj("trigger",a);window.hype.logger.info("dataLayera "+a+" eventi pushland\u0131.");if(""!==a&&"undefined"!==a&&"null"!==a&&1==window.hype.listenedFunctions.hasOwnProperty(a)){for(var b=0;b<hype.listenedFunctions[a].length;b++)hype.listenedFunctions[a][b](window.dataLayer[hype.getDataLayerIndexByEvent(a)]);window.hype.logger.info(a+" eventine ait fonksiyon bulundu ve \u00e7a\u011fr\u0131ld\u0131.")}null!==
-document.querySelector("#hypedllistener")&&document.querySelector("#hypedllistener").remove()}};window.hype.isThisFlightTransfer=function(){if(-1!==hype.getDataLayerIndexByEvent("ecAddToCart")){var a=dataLayer[hype.getDataLayerIndexByEvent("ecAddToCart")];if("Ticket"==a.eventLabel&&a.ecommerce.hasOwnProperty("add")&&a.ecommerce.add.products[0].hasOwnProperty("dimension14"))return"True"==a.ecommerce.add.products[0].dimension14?!0:!1}};
-window.hype.sendAnalyticsData=function(a,b,c){window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"GAEvent",eventCategory:a,eventAction:b,eventLabel:c})};window.hype.hypeListenedInputs=[];window.hype.hypeListenedInputsEmpty=[];
-hype.InputAnalyzer=function(a,b,c){var d="",e=hype.select(a+" "+b);if(null!==e){var g=function(){-1==hype.hypeListenedInputs.indexOf(a+" "+b)?(hype.hypeListenedInputs.push(a+" "+b),hype.hypeListenedInputs[0]==a+" "+b?hype.sendAnalyticsData("Micro Funnel",c,d+" - Dolu Ge\u00e7ti - \u0130lk Bunu Doldurdu"):hype.sendAnalyticsData("Micro Funnel",c,d+" - Dolu Ge\u00e7ti")):hype.sendAnalyticsData("Micro Funnel",c,d+" - Tekrar Doldurdu")};if("SELECT"==e.tagName){var f=hype.select("[for\x3d'"+b.replace("#",
-"")+"']");null!==f&&(d=f.innerText.trim());-1<a.indexOf("general-")&&(f=e.parentElement.querySelector("label"),null!==f?d=f.innerText.trim():(e=e.parentElement.parentElement.querySelector("label"),null!==e&&(d=e.innerText.trim())));"#dropdown-mtn-birthd"==b&&(d="G\u00dcN");"#dropdown-mtn-birthm"==b&&(d="AY");"#dropdown-mtn-birthy"==b&&(d="YIL");null!==b.match(/.*Billing$/)&&(d+=" (Fatura)");window.hype.blur(b,function(a){window.setTimeout(function(){""!==this.value&&g()},200)})}else"INPUT"==e.tagName&&
-(e.attributes.hasOwnProperty("placeholder")&&(d=e.attributes.placeholder.value),-1<a.indexOf("general-")&&(f=e.parentElement.querySelector("label"),null!==f&&(d=f.innerText.trim())),null!==b.match(/.*Billing$/)&&(d+=" (Fatura)"),window.hype.change(b,function(a){g()}))}};hype.isDataLayerLoaded();</script><script type="text/javascript" id="">window.hype.checkifloaded('document.querySelectorAll(".m-cookie .js-close-cookie").length !\x3d\x3d 0',function(){document.querySelector(".m-cookie .js-close-cookie").setAttribute("href","javascript:;")},100,5);</script><script type="text/javascript" id="">window.hype.checkifloaded('document.querySelectorAll("#product-detail").length !\x3d\x3d 0 \x26\x26 (document.querySelectorAll(".notify-me-button").length !\x3d\x3d 0 || document.querySelectorAll(".add-to-basket-non-login").length !\x3d\x3d 0 || document.querySelectorAll(".add-to-basket").length !\x3d\x3d 0)',function(){var a="",b=0;a="none"==$(".notify-me-button").css("display")?"not_logged_in"==window.utag_data.customerStatus?$(".add-to-basket-non-login").offset().top:$(".add-to-basket").offset().top:
-$(".notify-me-button").offset().top;$(window).scroll(function(c){hypeScroll=$(window).scrollTop();hypeScroll>a+50&&0==b&&(b++,window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:"TURKC-4"}))})},100,10);</script><script type="text/javascript" id="">null!==document.cookie.match(/7Lt55x24QJSZ6OaG1BDZJw\.[0-9]+\.[1]/gm)?0!==document.querySelectorAll(".m-header-nav a[title\x3d'pasaj']").length&&(document.querySelector(".m-header-nav a[title\x3d'pasaj']").innerText="Al\u0131\u015fveri\u015fe Ba\u015fla",document.querySelector(".m-header-nav a[title\x3d'pasaj']").setAttribute("title","Al\u0131\u015fveri\u015fe Ba\u015fla")):null!==document.cookie.match(/7Lt55x24QJSZ6OaG1BDZJw\.[0-9]+\.[2]/gm)&&0!==document.querySelectorAll(".m-header-nav a[title\x3d'pasaj']").length&&
-(document.querySelector(".m-header-nav a[title\x3d'pasaj']").innerText="\u00dcr\u00fcnler",document.querySelector(".m-header-nav a[title\x3d'pasaj']").setAttribute("title","\u00dcr\u00fcnler"));</script><script type="text/javascript" id="">-1!==document.referrer.indexOf("yaz-tatili-kampanyasi")&&null!==sessionStorage.getItem("hypeToken")&&window.hype.checkifloaded('document.querySelectorAll("h1").length !\x3d\x3d 0 \x26\x26 document.querySelectorAll("#product-detail").length !\x3d\x3d 0',function(){var a="https://www.turkcell.com.tr/tr/sansa-tikla?token\x3d"+sessionStorage.getItem("hypeToken");if(0==document.querySelectorAll("#hypeYazTatili").length){var b='\x3cstyle id\x3d"hypeYazTatili"\x3e';b+=".hypeYazTatili {width:228px; margin-bottom:15px; clear:both; height:60px; position: relative; float:left; overflow:hidden; border-radius:8px; background:#FF3D71;} .hypeYazTatili .d1 {width:72px; position: relative; z-index:1; height:72px; float:left; background:url(//useruploads.visualwebsiteoptimizer.com/useruploads/439264/images/08289cd9a694077b52f44bfa90343d3a_hype.png) no-repeat; background-size: 100%; margin-top:-4px;} .hypeYazTatili .d2 {float:left; position: relative; z-index:1; color:#fff; font-size:24px; font-weight:700; margin-top: 16px; margin-left: 10px;} .hypeYazTatili span {background:url(//useruploads.visualwebsiteoptimizer.com/useruploads/439264/images/90813533f19fbb70834cad1d127d399d_circle.png) no-repeat; opacity:0.8; width:146px; height:60px; position: absolute;left:0; top:0;} h1 {    clear: both; }";
-b+="\x3c/style\x3e";document.head.insertAdjacentHTML("beforeend",b)}0==document.querySelectorAll(".hypeYazTatili").length&&(a='\x3ca href\x3d"'+a+'" class\x3d"hypeYazTatili"\x3e \x3cspan\x3e\x3c/span\x3e \x3cdiv class\x3d"d1"\x3e\x3c/div\x3e  \x3cdiv class\x3d"d2"\x3e\u015eansa T\u0131kla\x3c/div\x3e \x3c/a\x3e',document.querySelector("h1").insertAdjacentHTML("beforebegin",a))});</script><script type="text/javascript" id="" charset="UTF-8" src="//cdn.segmentify.com/089e370c-ecd9-4631-bee1-3fadb4ae3b34/segmentify.js"></script><script type="text/javascript" id="">window.hype.checkifloaded('$(".price-radio-contracted .a-price-radio-b__title").length !\x3d\x3d 0',function(){window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"hypeTSF"})});</script><script type="text/javascript" id="">(function(){var a=!1;document.querySelectorAll("#all-comments .m-grid .a-btn")[0].onclick=function(){a||(a=!0,window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:"HypeCommentModal"}))}});</script><script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"hypeBFModal"});</script><script type="text/javascript" id="">document.querySelectorAll(".js-quick-nav li").forEach(function(a){a.addEventListener("click",function(){window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"GAEvent",eventCategory:"Button Click",eventAction:"Header - H\u0131zl\u0131 \u0130\u015flemler",eventLabel:this.innerText.trim()})})});</script><script type="text/javascript" id="">1==window.hasOwnProperty("utag_data")&&("undefined"!=typeof utag_data["js_page.cust.customer_id"]&&dataLayer.push({customerId:utag_data["js_page.cust.customer_id"],customerDevice:utag_data["js_page.cust.Cus_device_brand"]+" | "+utag_data["js_page.cust.Cus_device_model"],customerPackage:utag_data["js_page.cust.customer_package"],customerPaymentType:utag_data["js_page.cust.payment_type"],customerSkStatus:utag_data["js_page.cust.customer_sk_status"],customerSegment:utag_data["js_page.cust.customer_segment_ALTS"]}),
-dataLayer.push({event:"crmLoaded"}));</script>
-<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","470016443928963");fbq("track","PageView");</script>
-<noscript>
-  <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=470016443928963&amp;ev=PageView&amp;noscript=1">
-</noscript>
-<script type="text/javascript" id="">try{var expcookie="GAX1.3.a1asFvRYStGPbWYGZ1EyqA.18743.1";if(""!==expcookie&&"undefined"!==expcookie){var expid=expcookie.match(/\..\.(.*?)\.[0-9][0-9][0-9]*/)[1],expvar=expcookie.match(/\.([0-9][0-9]?!?$)/)[1];window.hj=window.hj||function(){(hj.q=hj.q||[]).push(arguments)};hj("tagRecording",["Experiment",expid+" - "+expvar])}}catch(a){console.log(a)};</script><script type="text/javascript" id="">$(document).ready(function(){$("section a,section .a-btn-icon,section button,section canvas").click(function(a){var e=$(this);a=["m-slider_prev","m-slider_next","m-card--product"];var f=!0;$.each(a,function(k,g){e.hasClass(g)&&(f=!1)});if(1==f){var d=$(this).closest("section"),b=$(this).closest(".m-carousel div[id*\x3d'banner-']");a=null;0!==d.length&&(a=d);0!==b.length&&(a=b);if(0!==a.length&&void 0!==a.attr("data-ga-id")){d=a.attr("data-ga-id");b=a.attr("data-ga-name");var c=a.attr("data-ga-creative"),
-h=a.attr("data-ga-position");a=a.attr("data-ga-event-label");void 0!==$(this).attr("data-desc")?a=a+" - "+$(this).attr("data-desc"):void 0!==$(this).attr("title")?a=a+" - "+$(this).attr("title"):void 0!==$(this).attr("href")&&(a=a+" - "+$(this).attr("href"));if("component-passage_stories"==b||"component-passage_campaign_list"==b||"component-passage_opportunity_list"==b)c=e.find("img").attr("src").split("/"),c=c[c.length-1],c=c.split(".")[0];dataLayer=dataLayer||[];dataLayer.push({event:"ecInternalPromotionClick",
-eventCategory:"Internal Promotions",eventAction:"Promotion Click",eventLabel:a,ecommerce:{promoClick:{promotions:[{id:d,name:b,creative:c,position:h}]}}})}}})});</script><script type="text/javascript" id="">$(document).ready(function(){window.ga_promo_view_array=[];window.ga_swiper_view_array=[];hype=hype||{};"/"==location.pathname|"/kurumsal"==location.pathname|"/pasaj.*"==location.pathname&&hype.checkifloaded("document.querySelector('main .swiper-container') !\x3d\x3d null",function(){var e=document.querySelector("main .swiper-container").swiper,l=e.slides.length-2,f=0,h=function(a){g($(".m-carousel .swiper-slide-next"))},g=function(a){if(void 0!==a.attr("data-ga-id")){var d=null,c=null,b=null,k=null;
-void 0!==a.attr("data-ga-id")&&(d=a.attr("data-ga-id"));void 0!==a.attr("data-ga-name")&&(c=a.attr("data-ga-name"));void 0!==a.attr("data-ga-creative")&&(b=a.attr("data-ga-creative"));if("component-passage_stories"==c||"component-passage_campaign_list"==c||"component-passage_opportunity_list"==c)b=t.find("img").attr("src").split("/"),b=b[b.length-1],b=b.split(".")[0];void 0!==a.attr("data-ga-position")&&(k=a.attr("data-ga-position"));-1==ga_swiper_view_array.indexOf(d)?(dataLayer=dataLayer||[],dataLayer.push({event:"ecInternalPromotionView",
-eventCategory:"Internal Promotions",eventAction:"Promotion View",eventLabel:"",ecommerce:{promoView:{promotions:[{id:d,name:c,creative:b,position:k}]}}}),ga_swiper_view_array.push(d)):(f++,f==l&&e.off("slideChange",h))}};g($(".m-carousel .swiper-slide-active"));e.on("slideChange",h)})});</script><script type="text/javascript" id="">0!==document.querySelectorAll("#avatar-thumb-holder .member").length&&document.querySelector("#avatar-thumb-holder .member").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#current_msisdn strong").length&&document.querySelector("#current_msisdn strong").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#your_lines .selectables tr strong").length&&document.querySelector("#your_lines .selectables tr strong").setAttribute("data-hj-suppress","");
-0!==document.querySelectorAll("#fatura-adresi .address").length&&document.querySelector("#fatura-adresi .address").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#e-bill-email").length&&document.querySelector("#e-bill-email").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#e-bill-email").length&&document.querySelector("#e-bill-email").setAttribute("data-hj-suppress","");
-0!==document.querySelectorAll(".m-dashboard__phone").length&&document.querySelector(".m-dashboard__phone").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#customeremail-again").length&&document.querySelector("#customeremail-again").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#customername").length&&document.querySelector("#customername").setAttribute("data-hj-suppress","");
-0!==document.querySelectorAll(".m-user-profile img").length&&document.querySelector(".m-user-profile img").setAttribute("data-hj-suppress","");0!==document.querySelectorAll(".uploadedPhoto").length&&document.querySelector(".uploadedPhoto").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#header-search h2").length&&document.querySelector("#header-search h2").setAttribute("data-hj-suppress","");
-0!==document.querySelectorAll("#step-6 .nameSurname").length&&document.querySelector("#header-search h2").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#step-6 .nameSurname").length&&document.querySelector("#step-6 .nameSurname").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#step-6 .gsm").length&&document.querySelector("#step-6 .gsm").setAttribute("data-hj-suppress","");
-0!==document.querySelectorAll("#step-6 .addressBilling").length&&document.querySelector("#step-6 .addressBilling").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#step-6 .addressBilling").length&&document.querySelector("#step-6 .addressBilling").setAttribute("data-hj-suppress","");0!==document.querySelectorAll("#step-6 .address").length&&document.querySelector("#step-6 .address").setAttribute("data-hj-suppress","");
-0!==document.querySelectorAll(".disabledTextbox").length&&document.querySelector(".disabledTextbox").setAttribute("data-hj-suppress","");</script><script type="text/javascript" id="">var prElement=document.querySelector('meta[name\x3d"mainCategory"]'),cx_category=prElement&&prElement.getAttribute("content");!function(b,c,d,a){b.mpfContainr||(b.mpfContainr=function(){d.push(arguments)},mpfContainr.q=d,(a=c.createElement("script")).type="application/javascript",a.async=!0,a.src="//cdn.mookie1.com/containr.js",c.head.appendChild(a))}(window,document,[]);
-mpfContainr("V2_872264",{host:"tr-gmtdmp.mookie1.com",tagType:"activity","src.rand":utag_data.timestamp,"src.category-name":cx_category,"src.sales-order-id":utag_data.order_id,"src.basket":utag_data.basket,"src.price":utag_data.tiklaalrev||utag_data.order_total,"src.product-name":utag_data.gsm_product_name||utag_data.product_name,"src.home-page":utag_data.homepage,"src.product-id":utag_data.product_id,"src.sales":utag_data.sales});</script>
-
-<noscript>
-<iframe src="//tr-gmtdmp.mookie1.com/t/v2?tagid=V2_872264&amp;isNoScript&amp;src.category-name=[REPLACE THIS WITH YOUR MACRO AND PASS IN Category]&amp;src.sales-order-id=[REPLACE THIS WITH YOUR MACRO AND PASS IN Sales ID / Order ID]&amp;src.basket=[REPLACE THIS WITH YOUR MACRO AND PASS IN Basket]&amp;src.price=[REPLACE THIS WITH YOUR MACRO AND PASS IN Price]&amp;src.product-name=[REPLACE THIS WITH YOUR MACRO AND PASS IN Product Name]&amp;src.home-page=[REPLACE THIS WITH YOUR MACRO AND PASS IN Home Page]&amp;src.product-id=[REPLACE THIS WITH YOUR MACRO AND PASS IN Product ID]&amp;src.sales=[REPLACE THIS WITH YOUR MACRO AND PASS IN Sales]&amp;src.rand=[timestamp]" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-
-
-<script type="text/javascript" id="" src="https://www.googletagmanager.com/gtag/js?id=DC-10138642"></script><script type="text/javascript" id="">var now=new Date,eventTime=now.getDay()+"/"+Number(now.getMonth()+1)+"/"+now.getFullYear()+"-"+now.getHours()+":"+now.getMinutes()+":"+now.getSeconds();utag_data.timestamp=eventTime;</script><script type="text/javascript" id="" src="//turkcell.api.useinsider.com/ins.js?id=10000432"></script><script type="text/javascript" id="">var hjtags=[],replaceValues=function(b){viki=b;switch(b){case "logged_in":viki="Logged-In";break;case "not_logged_in":viki="Not Logged-In"}return viki},dynhjtag=function(b,a){""!==a&&"undefined"!==a&&"null"!==a&&(a=replaceValues(a),hjtags.push(b+": "+a))};dynhjtag("Customer Type","undefined");dynhjtag("Login Status","not_logged_in");dynhjtag("Package","undefined");dynhjtag("Tariff","undefined");window.hj=window.hj||function(){(window.hj.q=window.hj.q||[]).push(arguments)};
-window.hj("tagRecording",hjtags);</script><script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"hypeTarifeneEk"});</script><script type="text/javascript" id="">window.hype.checkifloaded('document.querySelectorAll(".notify-me-button").length !\x3d\x3d 0 \x26\x26 document.querySelectorAll("h1").length !\x3d\x3d 0',function(){$(".notify-me-button").click(function(){var a="";0!==document.querySelectorAll(".product-detail__property .select2-icons__value").length&&(a=$(".product-detail__property .select2-icons__value").text().trim());var b=$("h1").text().trim();window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"GAEvent",eventCategory:"Functions",
-eventAction:"Sto\u011fa gelince haber ver",eventLabel:b+" - "+a})})});</script><script type="text/javascript" id="">window.hype.checkifloaded('document.querySelectorAll(".product-detail__property").length !\x3d\x3d 0',function(){1<document.querySelectorAll(".a-price-radio-b").length&&(window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:"TURKC-88"}))});</script><script type="text/javascript" id="">window.hype.checkifloaded('document.querySelectorAll(".js-login").length !\x3d\x3d 0 \x26\x26 document.querySelectorAll(".m-login__form").length !\x3d\x3d 0 \x26\x26 document.querySelectorAll(".m-login__container").length !\x3d\x3d 0 \x26\x26 document.querySelectorAll(".m-login__form .js-login-select").length !\x3d\x3d 0 \x26\x26 document.querySelectorAll(".m-login h3").length !\x3d\x3d 0 \x26\x26 document.querySelectorAll(".js-login-select").length !\x3d\x3d 0 \x26\x26 window.utag_data.customerStatus \x3d\x3d "not_logged_in" \x26\x26 document.querySelectorAll(".m-header-dropdown__close").length !\x3d\x3d 0 \x26\x26 document.querySelectorAll(".o-header__login-container").length !\x3d\x3d 0',
-function(){$(".js-login").click(function(){setTimeout(function(){1==$(".o-header__login-container").hasClass("o-header__login-container--active")&&"block"==document.querySelector(".m-login__footer").style.display&&(window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:"TURKC-62"}),"function"==typeof window.hypeLoginDesign&&window.hypeLoginDesign())},100)})},100,4);</script><script type="text/javascript" id="">window.hype.checkifloaded('document.querySelectorAll(".price-radio-cashContracted").length!\x3d\x3d0 \x26\x26 document.querySelectorAll(".hypeColor").length\x3d\x3d0  \x26\x26 (document.querySelector(".price-radio-cashContracted").length!\x3d\x3d0 || document.querySelector(".price-radio-cash").length !\x3d\x3d0 )',function(){var a=document.querySelector(".price-radio-cash .a-price-val").innerText,b=document.querySelector(".price-radio-cashContracted .a-price-val").innerText;a=parseInt(a.replace(".",
-"").replace(",","."))-parseFloat(b.replace(".","").replace(",","."));30<=a&&(window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:"TURKC-X01"}))});</script><script type="text/javascript" id="">var hypeCashRadioButton=document.querySelector("input[data-type\x3d'cash']"),hypeNonLoginSellButton=document.querySelector(".o-p-header__dropdown__login__continue-anon");function filterButtons(a){return"sepete ekle"==a.innerText.toLowerCase().trim()}function handleOnButtonClick(){console.log("butona t\u0131kland\u0131");hypeCashRadioButton&&hypeCashRadioButton.checked&&(console.log("event g\u00f6nderildi"),window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:"hypeHizliGiris"}))}
-var hypeAddToBasketButtons=Array.from(document.querySelectorAll("button")).filter(filterButtons);console.log(hypeAddToBasketButtons);hypeAddToBasketButtons.forEach(function(a){a.addEventListener("click",handleOnButtonClick)});</script>
-
-<script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","DC-10138642");</script>
-
-
-<iframe height="0" width="0" style="display: none; visibility: hidden;" src="https://10138642.fls.doubleclick.net/activityi;src=10138642;type=invmedia;cat=turkc0;ord=8278390255081;gtm=2od1d0;auiddc=776201615.1611515999;u1=Bilgisayar%20%26%20Tablet;u2=undefined;u3=undefined;u4=undefined;u5=HP%20Pavilion%20Gaming%2015-dk0005nt%20(6ZL09EA)%20%2F%20Intel%20Core%20i5-9300H%20%2F%208GB%20Ram%20%2F%201TB%20%2B%20128GB%20SSD%20%2F%20W10%20%2F%2015.6%20in%C3%A7%20FHD%20%2F%20GeForce%20GTX%201650%204GB;u6=undefined;u7=1030441;u8=undefined;~oref=https%3A%2F%2Fwww.turkcell.com.tr%2Fpasaj%2Fbilgisayar-tablet%2Fbilgisayarlar%2Foyun-bilgisayari%2Fhp-pavilion-gaming-15-dk0005nt-6zl09ea?"></iframe><script type="text/javascript" id="">var prElement=document.querySelector('meta[name\x3d"mainCategory"]'),cx_category=prElement&&prElement.getAttribute("content");gtag("event","conversion",{allow_custom_scripts:!0,u1:cx_category,u2:utag_data.order_id,u3:utag_data.basket,u4:utag_data.tiklaalrev||utag_data.order_total,u5:utag_data.gsm_product_name||utag_data.product_name,u6:utag_data.homepage,u7:utag_data.product_id,u8:utag_data.sales,send_to:"DC-10138642/invmedia/turkc0+standard"});</script>
-<noscript>
-<img src="https://ad.doubleclick.net/ddm/activity/src=10138642;type=invmedia;cat=turkc0;u1=[CATEGORY-NAME];u2=[SALES ID / ORDER ID];u3=[BASKET];u4=[PRICE];u5=[PRODUCT-NAME];u6=[HOME-PAGE];u7=[PRODUCT-ID];u8=[SALES];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?" width="1" height="1" alt="">
-</noscript>
-<iframe id="insider-worker" src="https://turkcell.api.useinsider.com/worker-new.html" style="display: none;"></iframe><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-469cf41adb11dc78be68c1ae7f9457a4.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
-<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","470016443928963");fbq("track","PageView");</script>
-<noscript>
-  <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=470016443928963&amp;ev=PageView&amp;noscript=1">
-</noscript>
-<script type="text/javascript" id="">var prElement=document.querySelector('meta[name\x3d"cashPrice"]'),cx_price=prElement&&prElement.getAttribute("content");fbq("track","ViewContent",{content_type:"product",content_ids:utag_data.product_id,value:cx_price.split(" ")[0],currency:"TRY"});</script><script type="text/javascript" id="">var dataLayer=dataLayer||[];dataLayer.push({event:"crto_productpage",crto:{products:utag_data.product_id}});</script><iframe id="utagDataIframe" width="1" height="1" scrolling="no" frameborder="0" style="display: none;" src="https://creativecdn.com/tags?id=pr_v4j1UJ2DjcSzjjyan5DE_offer_1030441"></iframe> 
-<script type="text/javascript" id="">var utagUtagDataProductId=utag_data.product_id,iframeSrc="https://creativecdn.com/tags?id\x3dpr_v4j1UJ2DjcSzjjyan5DE_offer_"+utagUtagDataProductId;document.getElementById("utagDataIframe").setAttribute("src",iframeSrc);</script><script type="text/javascript" id="" src="//static.criteo.net/js/ld/ld.js"></script>
-<script type="text/javascript" id="">window.criteo_q=window.criteo_q||[];window.criteo_q.push({event:"setAccount",account:google_tag_manager["GTM-SVLC"].macro(48)},{event:"setEmail",email:google_tag_manager["GTM-SVLC"].macro(49)},{event:"setSiteType",type:google_tag_manager["GTM-SVLC"].macro(50)},{event:"viewItem",tms:"gtm-criteo-2.0.0",item:google_tag_manager["GTM-SVLC"].macro(51)});</script><div id="criteo-tags-div" style="display: none;"><iframe src="https://gum.criteo.com/syncframe?topUrl=www.turkcell.com.tr#{&quot;bundle&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;cw&quot;:true,&quot;lwid&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;optout&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;origin&quot;:&quot;onetag&quot;,&quot;pm&quot;:0,&quot;sid&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;tld&quot;:&quot;turkcell.com.tr&quot;,&quot;topUrl&quot;:&quot;www.turkcell.com.tr&quot;,&quot;uid&quot;:null,&quot;version&quot;:&quot;5_6_2&quot;}" id="criteo-syncframe" width="0" height="0" frameborder="0" style="border-width:0px; margin:0px; display:none" title="Criteo GUM iframe"></iframe></div><iframe height="0" width="0" title="Criteo DIS iframe" style="display: none;"></iframe><style id="ins-free-style" innerhtml="/*.insider-more-info {
-    width: auto;
-    height: 18px;
-    max-width: 170px;
-    line-height: 18px;
-    padding: 5px;
-    background: #f9f9f9;
-    border: 1px solid #bababa;
-    border-radius: 1px;
-    display: inline-block;
-    font-size: 14px;
-    text-align: center;
-    cursor: pointer;
-    box-sizing: content-box;
-    float: left;
-}
-
-@media all and (max-width: 359px) { 
-    .insider-more-info {
-        font-size: 9px;
-    } 
-}
-
-#insTriggerContent { 
-top: 35% !important;
-}
-
-.ins-assist-position-right { r
-right: 110px !important;
-}
-
-#ins-coupon-assist { 
-z-index: 99 !important;
-}
-
-#ins-assist-desc {
- font-size: 11px;
-} 
-
-.sp-fancybox-wrap.sp-advanced-css-225 {
-     bottom: 25px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-282 {
-     bottom: 25px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-345 {
-     bottom: 100px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-370 {
-     bottom: 100px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-399 {
-     bottom: 100px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-421 {
-     bottom: 100px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-439 {
-     bottom: 100px!important;
-     left: 25px!important;
-}*/
-
-#instory-modal-content .story-viewer .ins-wrap-full-story-button .ins-full-story-button .ins-element-link {
-     width: auto!important;
-     height: 40px!important;
-}
-
-#insTriggerContent {
-    top: 30% !important;
-}
-.ins-header-bandaid1 {
-    height: 143px !important;
-}
-
-
-.ins-preview-wrapper-1126 .ins-instory #ins-api-stories.stories.carousel {
-    max-width: 100% !important;
-}
-
-/* OPT-29321 Start */
-.ins-instory #ins-api-stories.stories.carousel {
-    max-width: 100% !important;
-}
-
-.ins-reset-zoom-OPT29321 {
-    zoom: 1 !important;
-}
-/* OPT-29321 End */
-/*
-#instory-modal-content .story-viewer .ins-wrap-full-story-swipe-button .ins-full-story-swipe-button .ins-element-link {
-    position: absolute;
-    width: 100vw;
-    top: 23px !important;
-    height: 30px !important;
-    letter-spacing: .1px;
-    color: inherit !important;
-    text-decoration: inherit !important;
-    font-size: inherit !important;
-    line-height: 1.75 !important;
-    font-weight: inherit !important;
-    font-style: inherit !important;
-    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
-}*/
-
-div#insTriggerContent {
-    transform: none !important;
-}">/*.insider-more-info {
-    width: auto;
-    height: 18px;
-    max-width: 170px;
-    line-height: 18px;
-    padding: 5px;
-    background: #f9f9f9;
-    border: 1px solid #bababa;
-    border-radius: 1px;
-    display: inline-block;
-    font-size: 14px;
-    text-align: center;
-    cursor: pointer;
-    box-sizing: content-box;
-    float: left;
-}
-
-@media all and (max-width: 359px) { 
-    .insider-more-info {
-        font-size: 9px;
-    } 
-}
-
-#insTriggerContent { 
-top: 35% !important;
-}
-
-.ins-assist-position-right { r
-right: 110px !important;
-}
-
-#ins-coupon-assist { 
-z-index: 99 !important;
-}
-
-#ins-assist-desc {
- font-size: 11px;
-} 
-
-.sp-fancybox-wrap.sp-advanced-css-225 {
-     bottom: 25px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-282 {
-     bottom: 25px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-345 {
-     bottom: 100px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-370 {
-     bottom: 100px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-399 {
-     bottom: 100px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-421 {
-     bottom: 100px!important;
-     left: 25px!important;
-}
-
-.sp-fancybox-wrap.sp-advanced-css-439 {
-     bottom: 100px!important;
-     left: 25px!important;
-}*/
-
-#instory-modal-content .story-viewer .ins-wrap-full-story-button .ins-full-story-button .ins-element-link {
-     width: auto!important;
-     height: 40px!important;
-}
-
-#insTriggerContent {
-    top: 30% !important;
-}
-.ins-header-bandaid1 {
-    height: 143px !important;
-}
-
-
-.ins-preview-wrapper-1126 .ins-instory #ins-api-stories.stories.carousel {
-    max-width: 100% !important;
-}
-
-/* OPT-29321 Start */
-.ins-instory #ins-api-stories.stories.carousel {
-    max-width: 100% !important;
-}
-
-.ins-reset-zoom-OPT29321 {
-    zoom: 1 !important;
-}
-/* OPT-29321 End */
-/*
-#instory-modal-content .story-viewer .ins-wrap-full-story-swipe-button .ins-full-story-swipe-button .ins-element-link {
-    position: absolute;
-    width: 100vw;
-    top: 23px !important;
-    height: 30px !important;
-    letter-spacing: .1px;
-    color: inherit !important;
-    text-decoration: inherit !important;
-    font-size: inherit !important;
-    line-height: 1.75 !important;
-    font-weight: inherit !important;
-    font-style: inherit !important;
-    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
-}*/
-
-div#insTriggerContent {
-    transform: none !important;
-}</style></body></html>
+</body></html>

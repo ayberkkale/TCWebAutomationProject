@@ -2,27 +2,27 @@ package pages;
 
 
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.testng.Assert;
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.concurrent.TimeUnit;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 
-public class ProductDetailPage {
+
+public class ProductDetailPage extends BasePage{
 
     protected static WebDriver driverPrDePa;
     private int defaultWait=30;
     private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
 
     public ProductDetailPage(WebDriver driver){
-        //PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
+
         this.driverPrDePa = driver;
+        init(driverPrDePa);
 
     }
     private double TurkishDecimalConverter(String str_foundMonthlyInstallment){ // Turkish number notation to general
@@ -40,21 +40,27 @@ public class ProductDetailPage {
         return answer;
     }
 
-    public boolean isDefaultMontlyInstallmenthigherthan(double montlyInstallment) throws InterruptedException {
 
-            Thread.sleep(3000);
-            WebElement installmentElement = new WebDriverWait(driverPrDePa, defaultWait*2).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//span[@class='a-price-val']")));
+    public void isDefaultMontlyInstallmentcompare(double montlyInstallment,int higher1_lower0) throws InterruptedException {
 
+        String str_foundMonthlyInstallment=getTextofElement(By.xpath("//span[@class='a-price-val']"));
 
-            String str_foundMonthlyInstallment=installmentElement.getText();
-
-            double foundMonthlyInstallment=TurkishDecimalConverter(str_foundMonthlyInstallment);
-
-            log.info("founddefaultMonthlyInstallment "+foundMonthlyInstallment );
+        double foundMonthlyInstallment=TurkishDecimalConverter(str_foundMonthlyInstallment);
 
 
-            return foundMonthlyInstallment>montlyInstallment ;
+        log.info("founddefaultMonthlyInstallment is: "+foundMonthlyInstallment );
 
+
+
+        if(higher1_lower0==1){
+            Assert.assertTrue(foundMonthlyInstallment>montlyInstallment ,"Test 3  is failed Expected Higher But Less");
+            log.info( "Higher" );
+            log.info( "Test 3 is part_1 is passed" );
+        }else{
+            Assert.assertTrue(foundMonthlyInstallment<montlyInstallment ,"Test 3  is failed Expected Lower But Higher");
+            log.warn( "Less" );
+            log.error("Test 3 part_1 is passed  condition2-less");
+        }
 
 
 
@@ -63,9 +69,15 @@ public class ProductDetailPage {
 
 
 
+
+
     private double giveMontlyInstallment(int Month){
         try{
-            Thread.sleep(3000);
+
+
+            getElementPresence(By.xpath("(//span[@class='a-price-val'])[1]"));
+
+
             String monthSTR= "title=\""+Month+" AY\" data-price=\"";
             int monthStartIndex = driverPrDePa.getPageSource().indexOf(monthSTR);
             int strlengh=monthSTR.length();
@@ -81,35 +93,33 @@ public class ProductDetailPage {
     }
 
 
-    public boolean checkInstallment6mhigherthan9m() throws InterruptedException, IOException {
-
-             Thread.sleep(6000);
-
-            WebDriver.Timeouts timeouts = driverPrDePa.manage().timeouts().implicitlyWait(defaultWait*2, TimeUnit.SECONDS);
-
-            boolean answer=giveMontlyInstallment(6)>giveMontlyInstallment(9);
-            log.info("6m vs 9m "+answer);
-
-            String filePath = "src\\Files\\pdpDOM.xml";
-            BufferedWriter writer = new BufferedWriter(new FileWriter(filePath));
-            writer.write(driverPrDePa.getPageSource());
-            writer.close();
-            log.trace("DOM file saved");
-
-            return answer;
-
-    }
+    public void checkInstallment6mhigherthan9m() throws InterruptedException, IOException {
 
 
-    public void tearDown()  {
 
-        try{
-            driverPrDePa.quit();
-        }catch( Exception e){
-            log.error(e);
-        }
+        getElement(By.xpath("(//span[@class='a-price-val'])[last()]"));
+
+
+
+        boolean answer=giveMontlyInstallment(6)>giveMontlyInstallment(9);
+
+        Assert.assertTrue(answer,"Error in comparison Test 3 part 2 is failed");
+        log.info("6m vs 9m "+answer);
+
+        log.info( "6m Higher" );
+        log.info( "Test 3 part 2 is passed" );
+//
+//            String filePath = "src\\Files\\pdpDOM.xml";
+//            BufferedWriter writer = new BufferedWriter(new FileWriter(filePath));
+//            writer.write(driverPrDePa.getPageSource());
+//            writer.close();
+//            log.trace("DOM file saved");
+
 
     }
+
+
+
 
 
 }

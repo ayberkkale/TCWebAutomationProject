@@ -1,12 +1,13 @@
 package testCases;
 
 
+import org.testng.Assert;
 import org.testng.annotations.*;
 import pages.TCmainPage;
 import pages.TCsearchResultPage;
 
 
-public class TestCase1 extends TestBase{
+public class TestCase1 extends TestBase {
 
 
 
@@ -30,15 +31,7 @@ public class TestCase1 extends TestBase{
         TurkcellSearchResultPage.goDevicesTab();
 
 
-
-        if(TurkcellSearchResultPage.issSearchItemListed(searchText)){
-            log.info("Search Item "+searchText+" Is Found");
-            log.info( "Test 1 is passed" );
-        }else{
-            log.warn("Not Found");
-            log.error("Test 1 is failed");
-        }
-
+        TurkcellSearchResultPage.issSearchItemListed(searchText);
 
 
 

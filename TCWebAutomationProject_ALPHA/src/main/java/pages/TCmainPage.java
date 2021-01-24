@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.*;
 import org.apache.log4j.Logger;
 
-public class TCmainPage {
+public class TCmainPage extends BasePage{
 
     private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
 
@@ -17,9 +17,10 @@ public class TCmainPage {
     private int defaultWait=30;
 
     public TCmainPage(WebDriver driver){ // constructor
-        //PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");//log4j property location
-        driver.get("https://www.turkcell.com.tr/");
+
         this.driver = driver;
+        driver.manage().window().maximize();
+        init(driver);
     }
 
 
@@ -28,18 +29,12 @@ public class TCmainPage {
 
         try{
 
-            WebElement buttonSearch = new WebDriverWait(driver, defaultWait).until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@title='Arama']")));
+            clickElement(By.xpath("//*[@title='Arama']"));
+
+            clickSendKeysAndSubmit(By.xpath("//*[@name='qx']"),searchText1);
 
 
-            buttonSearch.click();
 
-            WebElement areaSearch = new WebDriverWait(driver, defaultWait).until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@name='qx']")));
-
-            areaSearch.click();
-
-
-            areaSearch.sendKeys(searchText1);
-            areaSearch.submit();
             log.info("Search Text Submitted");
         }catch ( Exception e){
 
@@ -54,9 +49,9 @@ public class TCmainPage {
     public void navigatePasaj() {
 
         try{
-            WebElement buttonPasaj = new WebDriverWait(driver, defaultWait).until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='Pasaj']")));
 
-            buttonPasaj.click();
+            clickElement(By.xpath("//a[@title='Pasaj']"));
+
             log.info("Clicked pasaj button");
         }catch( Exception e){
             log.fatal("Couldn't navigated");
@@ -68,18 +63,7 @@ public class TCmainPage {
     }
 
 
-    public void tearDown()  {
 
-        try{
-            driver.quit();
-            log.trace("Driver closed");
-        }catch( Exception e){
-
-            log.fatal("Couldn't closed driver");
-            log.error(e);
-        }
-
-    }
 
     public TCsearchResultPage getTCsearchResultPage()  {
 

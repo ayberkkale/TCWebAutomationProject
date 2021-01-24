@@ -31,13 +31,8 @@ public class TestCase2 extends TestBase {
 
         PasajSepetPage PasajSepet = TCPasajHomePage.getPasajSepetPage();
 
-        if(PasajSepet.checkNoItemInBasket()){
-            log.info( "Sepette urun yok" );
-            log.info( "Test 2 is passed" );
-        }else{
-            log.warn( "Item Available" );
-            log.error("Test 2 is failed");
-        }
+        PasajSepet.checkNoItemInBasket();
+
 
 
 

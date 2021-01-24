@@ -8,46 +8,26 @@ import org.openqa.selenium.WebElement;
 import java.util.List;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class PasajSepetPage {
+public class PasajSepetPage extends BasePage{
 
     protected static WebDriver driverPaSePa;
     private int defaultWait=30;
     private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
 
     public PasajSepetPage(WebDriver driver){
-        //PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
+
         this.driverPaSePa = driver;
+        init(driver);
     }
 
 
-    public boolean checkNoItemInBasket(){
-        boolean tempNoItem=false;
+    public void checkNoItemInBasket(){
+        Assert.assertNotNull(getElement(By.xpath(" //h3[text()='Sepetinizde ürün bulunmamaktadır.']")),"Sepetinizde ürün bulunmamaktadır is not dipslayed");
 
-            String searchText="Sepetinizde ürün bulunmamaktadır.";
-
-            List<WebElement> allInputElements = new WebDriverWait(driverPaSePa, defaultWait).until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.tagName("h3")));
-
-
-            if(allInputElements.size() != 0)
-            {
-
-
-                for(WebElement inputElement : allInputElements)
-                {
-
-                    String temp=inputElement.getText();
-
-                    if(temp.equals(searchText)) {
-                        log.trace(searchText+" is displayed");
-                        tempNoItem=true;
-                    }
-                }
-            }
-
-
-            return tempNoItem;
+        log.info("Sepetinizde ürün bulunmamaktadır Is  Found");
 
 
 
@@ -56,13 +36,4 @@ public class PasajSepetPage {
     }
 
 
-    public void tearDown()  {
-
-        try{
-            driverPaSePa.quit();
-        }catch( Exception e){
-            log.error(e);
-        }
-
-    }
 }

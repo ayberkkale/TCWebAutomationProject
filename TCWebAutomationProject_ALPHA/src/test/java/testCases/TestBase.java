@@ -32,6 +32,7 @@ public class TestBase {
         log.info("BeforeMethod");
 
         driver=new ChromeDriver();
+        driver.get("https://www.turkcell.com.tr/");
     }
 
 

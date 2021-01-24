@@ -2,16 +2,14 @@ package testCases;
 
 
 import org.xml.sax.SAXException;
-import pages.TCmainPage;
-import pages.PasajHomePage;
-import pages.TCsearchResultPage;
-import pages.ProductDetailPage;
+import pages.*;
+
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 import org.testng.annotations.Test;
 
 
-public class TestCase3 extends TestBase{
+public class TestCase3 extends TestBase {
 
 
     @Test
@@ -55,26 +53,11 @@ public class TestCase3 extends TestBase{
         double montlyInstallment =1000;
 
 
-        if(ProductDetail.isDefaultMontlyInstallmenthigherthan(montlyInstallment)){
-
-            log.info( "Higher" );
-            log.info( "Test 3 is passed_1" );
-        }else{
-            log.warn( "Less" );
-            log.error("Test 3 is condition2-less");
-        }
+        ProductDetail.isDefaultMontlyInstallmentcompare(montlyInstallment,0);
 
 
-        if(ProductDetail.checkInstallment6mhigherthan9m()){
+        ProductDetail.checkInstallment6mhigherthan9m();
 
-            log.info( "6m Higher" );
-            log.info( "Test 3 is passed_2" );
-        }else{
-            log.error( "Error 6m vs 9m comparison" );
-            log.error("Test 3 is failed_2");
-
-
-        }
 
 
 
