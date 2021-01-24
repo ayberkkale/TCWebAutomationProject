@@ -17,7 +17,7 @@ public class TCmainPage {
     private int defaultWait=30;
 
     public TCmainPage(WebDriver driver){ // constructor
-        PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");//log4j property location
+        //PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");//log4j property location
         driver.get("https://www.turkcell.com.tr/");
         this.driver = driver;
     }
@@ -80,4 +80,18 @@ public class TCmainPage {
         }
 
     }
+
+    public TCsearchResultPage getTCsearchResultPage()  {
+
+
+        return new TCsearchResultPage(driver);
+    }
+
+    public PasajHomePage getPasajHomePage()  {
+
+
+        return new PasajHomePage(driver);
+    }
+
+
 }

@@ -25,17 +25,7 @@ public class TestBase {
     }
 
 
-    @BeforeTest
-    public void BeforeTest(){
 
-        log.info("BeforeTest");
-
-    }
-    @BeforeClass
-    public void BeforeClass(){
-
-        log.info("BeforeClass");
-    }
     @BeforeMethod
     public void BeforeMethod(){
 
@@ -44,31 +34,13 @@ public class TestBase {
         driver=new ChromeDriver();
     }
 
-    @AfterMethod
-    public void AfterMethod(){
 
-        log.info("AfterMethod");
-
-    }
 
     @AfterClass
     public void AfterClass(){
 
         log.info("AfterClass");
         driver.quit();
-    }
-
-    @AfterTest
-    public void AfterTest(){
-
-        log.info("AfterTest");
-    }
-
-
-    @AfterSuite
-    public void AfterSuite(){
-
-        log.info("AfterSuite");
     }
 
 

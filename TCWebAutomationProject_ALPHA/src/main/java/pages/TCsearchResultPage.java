@@ -8,6 +8,7 @@ import org.openqa.selenium.WebElement;
 import java.util.List;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
 import org.testng.annotations.*;
 
 public class TCsearchResultPage {
@@ -17,7 +18,7 @@ public class TCsearchResultPage {
     private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
 
     public TCsearchResultPage(WebDriver driver){
-        PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
+       // PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
         this.driver = driver;
     }
 
@@ -77,6 +78,7 @@ public class TCsearchResultPage {
 
 
     }
+
 
     public void navigateSearchItem(String searchText)throws InterruptedException{
 
@@ -144,6 +146,14 @@ public class TCsearchResultPage {
         }
 
     }
+
+
+    public ProductDetailPage getProductDetailPage()  {
+
+
+        return new ProductDetailPage(driver);
+    }
+
 
 
 }

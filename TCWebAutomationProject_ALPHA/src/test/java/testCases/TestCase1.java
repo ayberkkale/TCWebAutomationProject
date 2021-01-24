@@ -1,9 +1,6 @@
 package testCases;
 
-import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+
 import org.testng.annotations.*;
 import pages.TCmainPage;
 import pages.TCsearchResultPage;
@@ -20,16 +17,16 @@ public class TestCase1 extends TestBase{
         log.info( "Test Case 1 ");
 
 
-
         TCmainPage TurkcellMainpage = new TCmainPage(driver);
-        TCsearchResultPage TurkcellSearchResultPage = new TCsearchResultPage(driver);
+
 
         String searchText= "iPhone 12 64 GB";
 
 
-
-
         TurkcellMainpage.searchItembyText(searchText);
+
+        TCsearchResultPage TurkcellSearchResultPage = TurkcellMainpage.getTCsearchResultPage();
+
         TurkcellSearchResultPage.goDevicesTab();
 
 

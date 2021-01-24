@@ -1,9 +1,6 @@
 package testCases;
 
-import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+
 import pages.TCmainPage;
 import pages.PasajHomePage;
 import pages.PasajSepetPage;
@@ -21,12 +18,18 @@ public class TestCase2 extends TestBase {
 
 
         TCmainPage TurkcellMainpage = new TCmainPage(driver);
-        PasajHomePage TCPasajHomePage = new PasajHomePage(driver);
-        PasajSepetPage PasajSepet = new PasajSepetPage(driver);
+
 
 
         TurkcellMainpage.navigatePasaj();
+
+        PasajHomePage TCPasajHomePage = TurkcellMainpage.getPasajHomePage();
+
+
+
         TCPasajHomePage.navigateSepet();
+
+        PasajSepetPage PasajSepet = TCPasajHomePage.getPasajSepetPage();
 
         if(PasajSepet.checkNoItemInBasket()){
             log.info( "Sepette urun yok" );

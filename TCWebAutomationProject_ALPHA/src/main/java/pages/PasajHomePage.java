@@ -17,7 +17,7 @@ public class PasajHomePage {
     private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
 
     public PasajHomePage(WebDriver driver){
-        PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
+        //PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
         this.driverPaHoPa = driver;
     }
 
@@ -84,4 +84,19 @@ public class PasajHomePage {
         }
 
     }
+
+
+    public PasajSepetPage getPasajSepetPage()  {
+
+
+        return new PasajSepetPage(driverPaHoPa);
+    }
+
+    public TCsearchResultPage getTCsearchResultPage()  {
+
+
+        return new TCsearchResultPage(driverPaHoPa);
+    }
+
+
 }

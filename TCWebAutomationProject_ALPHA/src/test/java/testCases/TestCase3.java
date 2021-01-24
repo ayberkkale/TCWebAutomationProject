@@ -1,9 +1,6 @@
 package testCases;
 
-import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+
 import org.xml.sax.SAXException;
 import pages.TCmainPage;
 import pages.PasajHomePage;
@@ -27,28 +24,36 @@ public class TestCase3 extends TestBase{
 
 
         TCmainPage TurkcellMainpage = new TCmainPage(driver);
-        PasajHomePage TCPasajHomePage = new PasajHomePage(driver);
-        TCsearchResultPage TurkcellSearchResultPage = new TCsearchResultPage(driver);
-        ProductDetailPage  ProductDetail= new ProductDetailPage(driver);
-
 
         TurkcellMainpage.navigatePasaj();
+
+        PasajHomePage TCPasajHomePage =TurkcellMainpage.getPasajHomePage();
+
+
+
 
         TCPasajHomePage.scrollEndofPage();
 
         String BrandName="Macbook";
         String BrandName2="HP Bilgisayarlar";
 
-        TCPasajHomePage.navigatefooterlink(BrandName);
+        TCPasajHomePage.navigatefooterlink(BrandName2);
 
 
         String SearchItem="Apple MacBook Pro Touch Bar 13 inç";
         String SearchItem2="HP Pavilion Gaming 15-dk0005nt";
 
 
-        TurkcellSearchResultPage.navigateSearchItem(SearchItem);
+        TCsearchResultPage TurkcellSearchResultPage = TCPasajHomePage.getTCsearchResultPage();
+
+
+
+        TurkcellSearchResultPage.navigateSearchItem(SearchItem2);
+
+        ProductDetailPage  ProductDetail=  TurkcellSearchResultPage.getProductDetailPage();
 
         double montlyInstallment =1000;
+
 
         if(ProductDetail.isDefaultMontlyInstallmenthigherthan(montlyInstallment)){
 

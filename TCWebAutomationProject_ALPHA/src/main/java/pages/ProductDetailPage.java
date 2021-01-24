@@ -21,7 +21,7 @@ public class ProductDetailPage {
     private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
 
     public ProductDetailPage(WebDriver driver){
-        PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
+        //PropertyConfigurator.configure("src\\main\\java\\resources\\log4j.properties");
         this.driverPrDePa = driver;
 
     }
