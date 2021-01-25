@@ -26,7 +26,7 @@ public class PasajSepetPage extends BasePage{
 
     public void checkNoItemInBasket(){
         Assert.assertNotNull(getElement(By.xpath(" //h3[text()='Sepetinizde ürün bulunmamaktadır.']")),"Sepetinizde ürün bulunmamaktadır is not dipslayed");
-
+        log.info("Test 2 is passed");
         log.info("Sepetinizde ürün bulunmamaktadır Is  Found");
 
 

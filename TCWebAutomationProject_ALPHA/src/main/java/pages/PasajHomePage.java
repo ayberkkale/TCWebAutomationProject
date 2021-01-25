@@ -23,15 +23,17 @@ public class PasajHomePage extends BasePage {
     }
 
 
-    public void navigateSepet() {
+    public PasajHomePage navigateSepet() {
 
 
         try{
             clickElement(By.xpath("//a[@class='o-p-header__my-basket']"));
 
             log.info("Basket clicked");
+            return this;
         }catch (Exception e){
             log.error(e);
+            return this;
         }
 
 
@@ -39,7 +41,7 @@ public class PasajHomePage extends BasePage {
     }
 
 
-    public void scrollEndofPage() {
+    public PasajHomePage scrollEndofPage() {
         try{
 
 
@@ -52,25 +54,29 @@ public class PasajHomePage extends BasePage {
 
             builder.moveToElement(bottomElement).perform();
             log.info("Scrolled end of page");
+            return this;
 
         }catch( Exception e){
             log.error(e);
+            return this;
         }
 
 
     }
 
-    public void navigatefooterlink(String BrandName){
+    public PasajHomePage navigatefooterlink(String BrandName){
         try{
             String tempXpath= "(//a[contains(@title,'"+BrandName+"')])[1]";
 
 
             clickElement(By.xpath(tempXpath));
 
-            log.trace("Desired Footer link clicked by xpath: "+tempXpath);
+            log.info("Desired Footer link clicked by xpath: "+tempXpath);
+            return this;
 
         }catch( Exception e){
             log.error(e);
+            return this;
         }
 
     }

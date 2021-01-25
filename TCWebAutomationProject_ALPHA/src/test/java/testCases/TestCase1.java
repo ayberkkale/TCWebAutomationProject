@@ -24,11 +24,10 @@ public class TestCase1 extends TestBase {
         String searchText= "iPhone 12 64 GB";
 
 
-        TurkcellMainpage.searchItembyText(searchText);
 
-        TCsearchResultPage TurkcellSearchResultPage = TurkcellMainpage.getTCsearchResultPage();
+        TCsearchResultPage TurkcellSearchResultPage =  TurkcellMainpage.searchItembyText(searchText).getTCsearchResultPage().goDevicesTab();
 
-        TurkcellSearchResultPage.goDevicesTab();
+       
 
 
         TurkcellSearchResultPage.issSearchItemListed(searchText);

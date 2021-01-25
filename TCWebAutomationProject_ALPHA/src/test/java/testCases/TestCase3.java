@@ -23,30 +23,26 @@ public class TestCase3 extends TestBase {
 
         TCmainPage TurkcellMainpage = new TCmainPage(driver);
 
-        TurkcellMainpage.navigatePasaj();
 
-        PasajHomePage TCPasajHomePage =TurkcellMainpage.getPasajHomePage();
-
+        PasajHomePage TCPasajHomePage =   TurkcellMainpage.navigatePasaj().getPasajHomePage();
 
 
 
-        TCPasajHomePage.scrollEndofPage();
 
         String BrandName="Macbook";
         String BrandName2="HP Bilgisayarlar";
 
-        TCPasajHomePage.navigatefooterlink(BrandName2);
+        TCPasajHomePage.scrollEndofPage().navigatefooterlink(BrandName2);
 
 
         String SearchItem="Apple MacBook Pro Touch Bar 13 inç";
         String SearchItem2="HP Pavilion Gaming 15-dk0005nt";
 
 
-        TCsearchResultPage TurkcellSearchResultPage = TCPasajHomePage.getTCsearchResultPage();
+
+        TCsearchResultPage TurkcellSearchResultPage = TCPasajHomePage.getTCsearchResultPage().navigateSearchItem(SearchItem2);
 
 
-
-        TurkcellSearchResultPage.navigateSearchItem(SearchItem2);
 
         ProductDetailPage  ProductDetail=  TurkcellSearchResultPage.getProductDetailPage();
 

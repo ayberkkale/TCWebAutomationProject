@@ -75,7 +75,7 @@ public class ProductDetailPage extends BasePage{
         try{
 
 
-            getElementPresence(By.xpath("(//span[@class='a-price-val'])[1]"));
+            getElement(By.xpath("(//span[@class='a-price-val'])[last()]"));
 
 
             String monthSTR= "title=\""+Month+" AY\" data-price=\"";
@@ -98,6 +98,7 @@ public class ProductDetailPage extends BasePage{
 
 
         getElement(By.xpath("(//span[@class='a-price-val'])[last()]"));
+        getElementPresence(By.xpath("(//span[@class='a-price-val'])[last()]"));
 
 
 

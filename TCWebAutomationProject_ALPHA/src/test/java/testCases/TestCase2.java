@@ -21,15 +21,11 @@ public class TestCase2 extends TestBase {
 
 
 
-        TurkcellMainpage.navigatePasaj();
-
-        PasajHomePage TCPasajHomePage = TurkcellMainpage.getPasajHomePage();
+        PasajHomePage TCPasajHomePage = TurkcellMainpage.navigatePasaj().getPasajHomePage();
 
 
 
-        TCPasajHomePage.navigateSepet();
-
-        PasajSepetPage PasajSepet = TCPasajHomePage.getPasajSepetPage();
+        PasajSepetPage PasajSepet = TCPasajHomePage.navigateSepet().getPasajSepetPage();
 
         PasajSepet.checkNoItemInBasket();
 

@@ -25,15 +25,16 @@ public class TCsearchResultPage extends BasePage {
     }
 
 
-    public void goDevicesTab(){
+    public TCsearchResultPage goDevicesTab(){
         try{
 
             clickElement(By.xpath("//*[@title='Cihazlar']"));
-
-
+            log.info("DevicesTab");
+            return this;
 
         }catch (Exception e){
             log.error(e);
+            return this;
         }
 
 
@@ -45,20 +46,22 @@ public class TCsearchResultPage extends BasePage {
 
         Assert.assertEquals(getElement(By.xpath(" ((//span[@class='m-p-pc__title'and contains(text(), '"+searchText+"') ]))[last()]")).getText(),searchText,"Search Item "+searchText+" Is Not Found");
         log.info("Search Item "+searchText+" Is  Found");
+        log.info( "Test 1 is passed" );
 
 
     }
 
 
-    public void navigateSearchItem(String searchText)throws InterruptedException{
+    public TCsearchResultPage navigateSearchItem(String searchText)throws InterruptedException{
 
         try{
 
             clickElement(By.xpath("(//span[contains(text(), '"+searchText+"')])[1]"));
-
-
+            log.info("clicked "+searchText);
+            return this;
         }catch ( Exception e){
             log.error(e);
+            return this;
         }
 
 

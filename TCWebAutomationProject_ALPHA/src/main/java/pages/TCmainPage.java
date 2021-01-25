@@ -25,7 +25,7 @@ public class TCmainPage extends BasePage{
 
 
 
-       public void searchItembyText(String searchText1)  {
+       public TCmainPage searchItembyText(String searchText1)  {
 
         try{
 
@@ -36,26 +36,31 @@ public class TCmainPage extends BasePage{
 
 
             log.info("Search Text Submitted");
+
+            return this;
         }catch ( Exception e){
 
             log.fatal("No search object");
             log.error(e);
+            return this;
         }
 
 
     }
 
 
-    public void navigatePasaj() {
+    public TCmainPage navigatePasaj() {
 
         try{
 
             clickElement(By.xpath("//a[@title='Pasaj']"));
 
             log.info("Clicked pasaj button");
+            return this;
         }catch( Exception e){
             log.fatal("Couldn't navigated");
             log.error(e);
+            return this;
         }
 
 
