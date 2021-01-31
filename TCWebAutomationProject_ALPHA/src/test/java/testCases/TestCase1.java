@@ -1,15 +1,16 @@
 package testCases;
 
 
-import org.testng.Assert;
+import org.apache.log4j.Logger;
 import org.testng.annotations.*;
 import pages.TCmainPage;
 import pages.TCsearchResultPage;
+import testBase.TestBase;
 
 
 public class TestCase1 extends TestBase {
 
-
+    private static Logger log  = Logger.getLogger(TestCase1.class.getName()); // logger object
 
 
     @Test

@@ -1,14 +1,16 @@
 package testCases;
 
 
+import org.apache.log4j.Logger;
 import pages.TCmainPage;
 import pages.PasajHomePage;
 import pages.PasajSepetPage;
 import org.testng.annotations.Test;
+import testBase.TestBase;
 
 public class TestCase2 extends TestBase {
 
-
+    private static Logger log  = Logger.getLogger(TestCase2.class.getName()); // logger object
     @Test
     public void test2()  throws InterruptedException {
 

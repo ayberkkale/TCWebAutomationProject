@@ -1,17 +1,18 @@
-package testCases;
+package testBase;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
-import pages.TCmainPage;
-import pages.TCsearchResultPage;
+import pages.BasePage;
 
-public class TestBase {
 
-    protected static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
-    protected static  WebDriver driver;
+public class TestBase extends BasePage {
+
+
+    private static Logger log  = Logger.getLogger(TestBase.class.getName()); // logger object
+
+
 
     @BeforeSuite
     public void BeforeSuite(){
@@ -33,6 +34,7 @@ public class TestBase {
 
         driver=new ChromeDriver();
         driver.get("https://www.turkcell.com.tr/");
+        driver.manage().window().maximize();
     }
 
 

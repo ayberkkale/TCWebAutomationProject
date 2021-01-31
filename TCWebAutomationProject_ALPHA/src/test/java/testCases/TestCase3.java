@@ -1,19 +1,21 @@
 package testCases;
 
 
+import org.apache.log4j.Logger;
 import org.xml.sax.SAXException;
 import pages.*;
 
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 import org.testng.annotations.Test;
+import testBase.TestBase;
 
 
 public class TestCase3 extends TestBase {
-
+    private static Logger log  = Logger.getLogger(TestCase3.class.getName()); // logger object
 
     @Test
-    public void test3() throws InterruptedException, IOException, SAXException, ParserConfigurationException {
+    public void test3() throws InterruptedException, IOException{
 
 
 
@@ -49,7 +51,7 @@ public class TestCase3 extends TestBase {
         double montlyInstallment =1000;
 
 
-        ProductDetail.isDefaultMontlyInstallmentcompare(montlyInstallment,0);
+        ProductDetail.isDefaultMontlyInstallmentcompare(montlyInstallment,AttributeConstants.COMPARE_FOR_LESS_THAN);
 
 
         ProductDetail.checkInstallment6mhigherthan9m();
