@@ -6,8 +6,6 @@ import org.apache.log4j.Logger;
 
 public class TCmainPage extends BasePage{
 
-   // private static Logger log  = Logger.getLogger(TCmainPage.class.getName()); // logger object
-
 
 
 
@@ -16,7 +14,9 @@ public class TCmainPage extends BasePage{
         this.driver = driver;
 
         init(driver);
-        Logs.initLogger(TCmainPage.class.getName());
+        setClassNameforLogger(TCmainPage.class.getName());
+
+
     }
 
 
@@ -31,13 +31,13 @@ public class TCmainPage extends BasePage{
 
 
 
-            Logs.info("Search Text Submitted");
+            systemLog.info("Search Text Submitted");
 
             return this;
         }catch ( Exception e){
 
-           // Logs.fatal("No search object");
-           // log.error(e);
+            systemLog.fatal("No search object");
+            systemLog.error(e);
             return this;
         }
 
@@ -51,11 +51,11 @@ public class TCmainPage extends BasePage{
 
             actions.clickElement(By.xpath("//a[@title='Pasaj']"));
 
-            Logs.info("Clicked pasaj button");
+            systemLog.info("Clicked pasaj button");
             return this;
         }catch( Exception e){
-            //log.fatal("Couldn't navigated");
-            //log.error(e);
+            systemLog.fatal("Couldn't navigated");
+            systemLog.error(e);
             return this;
         }
 

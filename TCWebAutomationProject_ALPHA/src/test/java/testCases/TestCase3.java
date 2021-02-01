@@ -15,7 +15,7 @@ public class TestCase3 extends TestBase {
     private static Logger log  = Logger.getLogger(TestCase3.class.getName()); // logger object
 
     @Test
-    public void test3() throws InterruptedException, IOException{
+    public void test3() throws InterruptedException{
 
 
 

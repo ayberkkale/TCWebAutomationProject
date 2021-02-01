@@ -10,12 +10,11 @@ import org.openqa.selenium.interactions.Actions;
 public class PasajHomePage extends BasePage {
 
 
-    private static Logger log  = Logger.getLogger(PasajHomePage.class.getName()); // logger object
-
     public PasajHomePage(WebDriver driver){
 
         this.driver = driver;
         init(driver);
+        setClassNameforLogger(PasajHomePage.class.getName());
     }
 
 
@@ -25,10 +24,10 @@ public class PasajHomePage extends BasePage {
         try{
             actions.clickElement(By.xpath("//a[@class='o-p-header__my-basket']"));
 
-            log.info("Basket clicked");
+            systemLog.info("Basket clicked");
             return this;
         }catch (Exception e){
-            log.error(e);
+            systemLog.error(e);
             return this;
         }
 
@@ -42,11 +41,11 @@ public class PasajHomePage extends BasePage {
 
             actions.scrollEndofThePage();
 
-            log.info("Scrolled end of page");
+            systemLog.info("Scrolled end of page");
             return this;
 
         }catch( Exception e){
-            log.error(e);
+            systemLog.error(e);
             return this;
         }
 
@@ -60,11 +59,11 @@ public class PasajHomePage extends BasePage {
 
             actions.clickElement(By.xpath(tempXpath));
 
-            log.info("Desired Footer link clicked by xpath: "+tempXpath);
+            systemLog.info("Desired Footer link clicked by xpath: "+tempXpath);
             return this;
 
         }catch( Exception e){
-            log.error(e);
+            systemLog.error(e);
             return this;
         }
 

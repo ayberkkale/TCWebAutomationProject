@@ -9,13 +9,13 @@ import org.openqa.selenium.WebDriver;
 public class TCsearchResultPage extends BasePage {
 
 
-    private static Logger log  = Logger.getLogger(TCsearchResultPage.class.getName()); // logger object
+
 
     public TCsearchResultPage(WebDriver driver){
 
         this.driver = driver;
-        driver.manage().window().maximize();
         init(driver);
+        setClassNameforLogger(TCsearchResultPage.class.getName());
     }
 
 
@@ -23,11 +23,11 @@ public class TCsearchResultPage extends BasePage {
         try{
 
             actions.clickElement(By.xpath("//*[@title='Cihazlar']"));
-            log.info("DevicesTab");
+            systemLog.info("DevicesTab");
             return this;
 
         }catch (Exception e){
-            log.error(e);
+            systemLog.error(e);
             return this;
         }
 
@@ -39,8 +39,8 @@ public class TCsearchResultPage extends BasePage {
         By xpath=By.xpath(" ((//span[@class='m-p-pc__title'and contains(text(), '"+searchText+"') ]))[last()]");
         validations.verifyElementTextEqualsText(xpath,searchText);
 
-        log.info("Search Item "+searchText+" Is  Found");
-        log.info( "Test 1 is passed" );
+        systemLog.info("Search Item "+searchText+" Is  Found");
+        systemLog.info( "Test 1 is passed" );
 
 
     }
@@ -51,10 +51,10 @@ public class TCsearchResultPage extends BasePage {
         try{
 
             actions.clickElement(By.xpath("(//span[contains(text(), '"+searchText+"')])[1]"));
-            log.info("clicked "+searchText);
+            systemLog.info("clicked "+searchText);
             return this;
         }catch ( Exception e){
-            log.error(e);
+            systemLog.error(e);
             return this;
         }
 

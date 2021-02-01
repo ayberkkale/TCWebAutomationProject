@@ -1,76 +1,30 @@
-2021-02-01 01:11:59 INFO  TestBase:27 - BeforeSuite
-2021-02-01 01:11:59 INFO  TestBase:35 - BeforeMethod
-2021-02-01 01:12:09 INFO  TestCase1:19 - Test Case 1 
-2021-02-01 01:12:11 INFO  TCmainPage:33 - Search Text Submitted
-2021-02-01 01:12:12 INFO  TCsearchResultPage:26 - DevicesTab
-2021-02-01 01:12:13 INFO  TCsearchResultPage:42 - Search Item iPhone 12 64 GB Is  Found
-2021-02-01 01:12:13 INFO  TCsearchResultPage:43 - Test 1 is passed
-2021-02-01 01:12:13 INFO  TestBase:47 - AfterClass
-2021-02-01 01:12:14 INFO  TestBase:35 - BeforeMethod
-2021-02-01 01:12:23 INFO  TestCase2:19 - Test Case 2
-2021-02-01 01:12:25 INFO  TCmainPage:53 - Clicked pasaj button
-2021-02-01 01:12:27 INFO  PasajHomePage:28 - Basket clicked
-2021-02-01 01:12:27 INFO  PasajSepetPage:25 - Test 2 is passed
-2021-02-01 01:12:27 INFO  PasajSepetPage:26 - Sepetinizde ürün bulunmamaktadır Is  Found
-2021-02-01 01:12:27 INFO  TestBase:47 - AfterClass
-2021-02-01 01:12:29 INFO  TestBase:35 - BeforeMethod
-2021-02-01 01:12:37 INFO  TestCase3:22 - Test Case 3
-2021-02-01 01:12:40 INFO  TCmainPage:53 - Clicked pasaj button
-2021-02-01 01:12:41 INFO  PasajHomePage:45 - Scrolled end of page
-2021-02-01 01:12:43 INFO  PasajHomePage:63 - Desired Footer link clicked by xpath: (//a[contains(@title,'HP Bilgisayarlar')])[1]
-2021-02-01 01:12:44 INFO  TCsearchResultPage:54 - clicked HP Pavilion Gaming 15-dk0005nt
-2021-02-01 01:12:46 INFO  ProductDetailPage:46 - founddefaultMonthlyInstallment is: 958.0
-2021-02-01 01:12:46 INFO  ProductDetailPage:60 - Less
-2021-02-01 01:12:46 INFO  ProductDetailPage:61 - Test 3 part_1 is passed  condition2-less
-2021-02-01 01:12:46 INFO  ProductDetailPage:81 - Month: 6, Installment: 1795.0
-2021-02-01 01:12:46 INFO  ProductDetailPage:81 - Month: 9, Installment: 1236.0
-2021-02-01 01:12:46 INFO  ProductDetailPage:98 - 6m vs 9m true
-2021-02-01 01:12:46 INFO  ProductDetailPage:100 - 6m Higher
-2021-02-01 01:12:46 INFO  ProductDetailPage:101 - Test 3 part 2 is passed
-2021-02-01 01:12:46 INFO  TestBase:47 - AfterClass
-2021-02-01 01:22:54 INFO  TestBase:27 - BeforeSuite
-2021-02-01 01:22:54 INFO  TestBase:35 - BeforeMethod
-2021-02-01 01:23:03 INFO  TestCase1:19 - Test Case 1 
-2021-02-01 01:23:05 INFO  TCmainPage:20 - Search Text Submitted
-2021-02-01 01:23:05 INFO  TCsearchResultPage:26 - DevicesTab
-2021-02-01 01:23:05 INFO  TCsearchResultPage:42 - Search Item iPhone 12 64 GB Is  Found
-2021-02-01 01:23:05 INFO  TCsearchResultPage:43 - Test 1 is passed
-2021-02-01 01:23:05 INFO  TestBase:47 - AfterClass
-2021-02-01 01:27:12 INFO  TestBase:25 - BeforeSuite
-2021-02-01 01:27:12 INFO  TestBase:33 - BeforeMethod
-2021-02-01 01:27:22 INFO  TestCase1:19 - Test Case 1 
-2021-02-01 01:27:24 INFO  TCmainPage:20 - Search Text Submitted
-2021-02-01 01:27:24 INFO  TCsearchResultPage:26 - DevicesTab
-2021-02-01 01:27:24 INFO  TCsearchResultPage:42 - Search Item iPhone 12 64 GB Is  Found
-2021-02-01 01:27:24 INFO  TCsearchResultPage:43 - Test 1 is passed
-2021-02-01 01:27:24 INFO  TestBase:45 - AfterClass
-2021-02-01 01:27:41 INFO  TestBase:25 - BeforeSuite
-2021-02-01 01:27:41 INFO  TestBase:33 - BeforeMethod
-2021-02-01 01:27:51 INFO  TestCase1:19 - Test Case 1 
-2021-02-01 01:27:52 INFO  TCmainPage:20 - Search Text Submitted
-2021-02-01 01:27:53 INFO  TCsearchResultPage:26 - DevicesTab
-2021-02-01 01:27:53 INFO  TCsearchResultPage:42 - Search Item iPhone 12 64 GB Is  Found
-2021-02-01 01:27:53 INFO  TCsearchResultPage:43 - Test 1 is passed
-2021-02-01 01:27:53 INFO  TestBase:45 - AfterClass
-2021-02-01 01:27:54 INFO  TestBase:33 - BeforeMethod
-2021-02-01 01:28:03 INFO  TestCase2:19 - Test Case 2
-2021-02-01 01:28:06 INFO  TCmainPage:20 - Clicked pasaj button
-2021-02-01 01:28:07 INFO  PasajHomePage:28 - Basket clicked
-2021-02-01 01:28:08 INFO  PasajSepetPage:26 - Test 2 is passed
-2021-02-01 01:28:08 INFO  PasajSepetPage:27 - Sepetinizde ürün bulunmamaktadır Is  Found
-2021-02-01 01:28:08 INFO  TestBase:45 - AfterClass
-2021-02-01 01:28:09 INFO  TestBase:33 - BeforeMethod
-2021-02-01 01:28:18 INFO  TestCase3:22 - Test Case 3
-2021-02-01 01:28:21 INFO  TCmainPage:20 - Clicked pasaj button
-2021-02-01 01:28:22 INFO  PasajHomePage:45 - Scrolled end of page
-2021-02-01 01:28:24 INFO  PasajHomePage:63 - Desired Footer link clicked by xpath: (//a[contains(@title,'HP Bilgisayarlar')])[1]
-2021-02-01 01:28:25 INFO  TCsearchResultPage:54 - clicked HP Pavilion Gaming 15-dk0005nt
-2021-02-01 01:28:26 INFO  ProductDetailPage:46 - founddefaultMonthlyInstallment is: 958.0
-2021-02-01 01:28:26 INFO  ProductDetailPage:60 - Less
-2021-02-01 01:28:26 INFO  ProductDetailPage:61 - Test 3 part_1 is passed  condition2-less
-2021-02-01 01:28:26 INFO  ProductDetailPage:81 - Month: 6, Installment: 1795.0
-2021-02-01 01:28:26 INFO  ProductDetailPage:81 - Month: 9, Installment: 1236.0
-2021-02-01 01:28:26 INFO  ProductDetailPage:98 - 6m vs 9m true
-2021-02-01 01:28:26 INFO  ProductDetailPage:100 - 6m Higher
-2021-02-01 01:28:26 INFO  ProductDetailPage:101 - Test 3 part 2 is passed
-2021-02-01 01:28:26 INFO  TestBase:45 - AfterClass
+2021-02-01 10:49:22 INFO  TestBase:25 - BeforeSuite
+2021-02-01 10:49:22 INFO  TestBase:33 - BeforeMethod
+2021-02-01 10:49:32 INFO  TestCase1:19 - Test Case 1 
+2021-02-01 10:49:34 INFO  TCmainPage:34 - Search Text Submitted
+2021-02-01 10:49:34 INFO  TCsearchResultPage:26 - DevicesTab
+2021-02-01 10:49:35 INFO  TCsearchResultPage:42 - Search Item iPhone 12 64 GB Is  Found
+2021-02-01 10:49:35 INFO  TCsearchResultPage:43 - Test 1 is passed
+2021-02-01 10:49:35 INFO  TestBase:45 - AfterClass
+2021-02-01 10:49:36 INFO  TestBase:33 - BeforeMethod
+2021-02-01 10:49:44 INFO  TestCase2:19 - Test Case 2
+2021-02-01 10:49:46 INFO  TCmainPage:54 - Clicked pasaj button
+2021-02-01 10:49:47 INFO  PasajHomePage:27 - Basket clicked
+2021-02-01 10:49:48 INFO  PasajSepetPage:26 - Test 2 is passed
+2021-02-01 10:49:48 INFO  PasajSepetPage:27 - Sepetinizde ürün bulunmamaktadır Is  Found
+2021-02-01 10:49:48 INFO  TestBase:45 - AfterClass
+2021-02-01 10:49:50 INFO  TestBase:33 - BeforeMethod
+2021-02-01 10:49:58 INFO  TestCase3:22 - Test Case 3
+2021-02-01 10:50:00 INFO  TCmainPage:54 - Clicked pasaj button
+2021-02-01 10:50:01 INFO  PasajHomePage:44 - Scrolled end of page
+2021-02-01 10:50:03 INFO  PasajHomePage:62 - Desired Footer link clicked by xpath: (//a[contains(@title,'HP Bilgisayarlar')])[1]
+2021-02-01 10:50:05 INFO  TCsearchResultPage:54 - clicked HP Pavilion Gaming 15-dk0005nt
+2021-02-01 10:50:07 INFO  ProductDetailPage:46 - founddefaultMonthlyInstallment is: 958.0
+2021-02-01 10:50:07 INFO  ProductDetailPage:60 - Less
+2021-02-01 10:50:07 INFO  ProductDetailPage:61 - Test 3 part_1 is passed  condition2-less
+2021-02-01 10:50:07 INFO  ProductDetailPage:81 - Month: 6, Installment: 1795.0
+2021-02-01 10:50:07 INFO  ProductDetailPage:81 - Month: 9, Installment: 1236.0
+2021-02-01 10:50:07 INFO  ProductDetailPage:98 - 6m vs 9m true
+2021-02-01 10:50:07 INFO  ProductDetailPage:100 - 6m Higher
+2021-02-01 10:50:07 INFO  ProductDetailPage:101 - Test 3 part 2 is passed
+2021-02-01 10:50:07 INFO  TestBase:45 - AfterClass

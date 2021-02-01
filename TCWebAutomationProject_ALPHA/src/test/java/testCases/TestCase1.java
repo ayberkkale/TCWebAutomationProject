@@ -14,7 +14,7 @@ public class TestCase1 extends TestBase {
 
 
     @Test
-    public void test1() throws InterruptedException {
+    public void test1() {
 
         log.info( "Test Case 1 ");
 

@@ -12,7 +12,7 @@ public class TestCase2 extends TestBase {
 
     private static Logger log  = Logger.getLogger(TestCase2.class.getName()); // logger object
     @Test
-    public void test2()  throws InterruptedException {
+    public void test2()   {
 
 
 

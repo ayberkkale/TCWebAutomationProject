@@ -1,6 +1,7 @@
 package pages;
 
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
 
@@ -11,6 +12,8 @@ public class BasePage {
     public Actions actions;
     public Validations validations;
     public static  WebDriver driver;
+    public static Logger systemLog;
+    private String className;
 
 
 
@@ -22,7 +25,18 @@ public class BasePage {
         validations = new Validations();
 
 
+
+
     }
+
+    public void setClassNameforLogger(String className){
+
+        this.className=className;
+        systemLog = Logger.getLogger(className); // logger object
+
+    }
+
+
 
 
 

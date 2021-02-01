@@ -8,12 +8,12 @@ import org.openqa.selenium.WebDriver;
 public class PasajSepetPage extends BasePage{
 
 
-  private static Logger log  = Logger.getLogger(PasajSepetPage.class.getName()); // logger object
 
     public PasajSepetPage(WebDriver driver){
 
         this.driver = driver;
         init(driver);
+        setClassNameforLogger(PasajSepetPage.class.getName());
 
     }
 
@@ -23,8 +23,8 @@ public class PasajSepetPage extends BasePage{
 
         validations.verifyElementExists(xpath);
 
-        log.info("Test 2 is passed");
-        log.info("Sepetinizde ürün bulunmamaktadır Is  Found");
+        systemLog.info("Test 2 is passed");
+        systemLog.info("Sepetinizde ürün bulunmamaktadır Is  Found");
 
 
 
